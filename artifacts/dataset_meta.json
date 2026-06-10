@@ -1,0 +1,25 @@
+{
+  "city": "Mumbai",
+  "target": "price_lakhs",
+  "features": [
+    "bhk",
+    "type",
+    "locality",
+    "area",
+    "region",
+    "status",
+    "age",
+    "region_median_price_lakhs",
+    "region_median_price_per_sqft",
+    "region_listing_count_log",
+    "locality_median_price_lakhs",
+    "locality_median_price_per_sqft",
+    "locality_listing_count_log",
+    "area_x_region_psf",
+    "location_premium_index",
+    "region_price_tier",
+    "mumbai_zone"
+  ],
+  "location_features": true,
+  "hyperparameter_tuning": true
+}

@@ -1,0 +1,21 @@
+{
+  "cv_log_rmse": 0.20029849603468378,
+  "rmse_lakhs": 66.68198976518026,
+  "mae_lakhs": 22.94374216156969,
+  "r2": 0.9007896819909312,
+  "mape_percent": 13.173366775073559,
+  "n_rows": 76038,
+  "tuned": true,
+  "best_regressor_params": {
+    "colsample_bylevel": 0.7623620356542088,
+    "colsample_bytree": 0.9352142919229749,
+    "gamma": 0.05100627805979915,
+    "learning_rate": 0.058462427412756056,
+    "max_depth": 10,
+    "min_child_weight": 10,
+    "n_estimators": 969,
+    "reg_alpha": 0.00026915045092098226,
+    "reg_lambda": 1.3551763533572747,
+    "subsample": 0.7501125833417066
+  }
+}
