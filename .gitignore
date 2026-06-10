@@ -1,0 +1,19 @@
+# Generated / local data (recreated by train_house_price_model.py)
+data/
+
+# Trained model outputs (recreated by train_house_price_model.py)
+artifacts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
