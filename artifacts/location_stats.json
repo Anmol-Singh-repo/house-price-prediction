@@ -1,0 +1,4017 @@
+{
+  "city_median_price_lakhs": 110.0,
+  "city_median_price_per_sqft": 0.13,
+  "region_stats": {
+    "Agripada": {
+      "median_price_lakhs": 375.0,
+      "median_price_per_sqft": 0.26223776223776224,
+      "listing_count": 61,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Airoli": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.12661870503597122,
+      "listing_count": 293,
+      "price_tier": "Mid",
+      "mumbai_zone": "Harbour Line"
+    },
+    "Ambernath East": {
+      "median_price_lakhs": 32.0,
+      "median_price_per_sqft": 0.043479057174709346,
+      "listing_count": 620,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Ambernath West": {
+      "median_price_lakhs": 31.0,
+      "median_price_per_sqft": 0.045,
+      "listing_count": 309,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Andheri East": {
+      "median_price_lakhs": 191.0,
+      "median_price_per_sqft": 0.21176470588235294,
+      "listing_count": 1084,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Andheri West": {
+      "median_price_lakhs": 250.5,
+      "median_price_per_sqft": 0.24641025641025643,
+      "listing_count": 1842,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Anjurdive": {
+      "median_price_lakhs": 69.995,
+      "median_price_per_sqft": 0.11234782608695652,
+      "listing_count": 198,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Badlapur East": {
+      "median_price_lakhs": 27.5,
+      "median_price_per_sqft": 0.041606280193236714,
+      "listing_count": 502,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Badlapur West": {
+      "median_price_lakhs": 23.0,
+      "median_price_per_sqft": 0.03895253682487725,
+      "listing_count": 319,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Bandra East": {
+      "median_price_lakhs": 282.5,
+      "median_price_per_sqft": 0.3467124646305534,
+      "listing_count": 262,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Bandra Kurla Complex": {
+      "median_price_lakhs": 375.0,
+      "median_price_per_sqft": 0.3082907626209842,
+      "listing_count": 72,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Bandra West": {
+      "median_price_lakhs": 600.0,
+      "median_price_per_sqft": 0.45454545454545453,
+      "listing_count": 229,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Bhandup East": {
+      "median_price_lakhs": 61.0,
+      "median_price_per_sqft": 0.122,
+      "listing_count": 116,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Bhandup West": {
+      "median_price_lakhs": 116.0,
+      "median_price_per_sqft": 0.16911764705882354,
+      "listing_count": 571,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Bhayandar East": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.1,
+      "listing_count": 678,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Bhayandar West": {
+      "median_price_lakhs": 87.25,
+      "median_price_per_sqft": 0.10815450643776824,
+      "listing_count": 105,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Bhiwandi": {
+      "median_price_lakhs": 40.485,
+      "median_price_per_sqft": 0.062079493975544145,
+      "listing_count": 618,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Boisar": {
+      "median_price_lakhs": 19.0,
+      "median_price_per_sqft": 0.03166666666666667,
+      "listing_count": 175,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Borivali East": {
+      "median_price_lakhs": 149.0,
+      "median_price_per_sqft": 0.2,
+      "listing_count": 1041,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Borivali West": {
+      "median_price_lakhs": 185.0,
+      "median_price_per_sqft": 0.21774193548387097,
+      "listing_count": 881,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Byculla": {
+      "median_price_lakhs": 459.5,
+      "median_price_per_sqft": 0.4073492446033844,
+      "listing_count": 308,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Chembur": {
+      "median_price_lakhs": 179.5,
+      "median_price_per_sqft": 0.21975675675675677,
+      "listing_count": 1462,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Dadar East": {
+      "median_price_lakhs": 599.0,
+      "median_price_per_sqft": 0.3486005089058524,
+      "listing_count": 111,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Dadar West": {
+      "median_price_lakhs": 477.0,
+      "median_price_per_sqft": 0.4025423728813559,
+      "listing_count": 97,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Dahisar": {
+      "median_price_lakhs": 95.0,
+      "median_price_per_sqft": 0.15184215629241807,
+      "listing_count": 750,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Deonar": {
+      "median_price_lakhs": 304.0,
+      "median_price_per_sqft": 0.24866220735785954,
+      "listing_count": 116,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Dombivali": {
+      "median_price_lakhs": 51.75,
+      "median_price_per_sqft": 0.0655226209048362,
+      "listing_count": 3041,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Dronagiri": {
+      "median_price_lakhs": 45.0,
+      "median_price_per_sqft": 0.05701357466063348,
+      "listing_count": 91,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Ghansoli": {
+      "median_price_lakhs": 148.0,
+      "median_price_per_sqft": 0.13324086916319927,
+      "listing_count": 368,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Ghatkopar East": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.2108626198083067,
+      "listing_count": 905,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Ghatkopar West": {
+      "median_price_lakhs": 200.0,
+      "median_price_per_sqft": 0.1929781420765027,
+      "listing_count": 182,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Goregaon East": {
+      "median_price_lakhs": 165.0,
+      "median_price_per_sqft": 0.19074866310160427,
+      "listing_count": 620,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Goregaon West": {
+      "median_price_lakhs": 190.0,
+      "median_price_per_sqft": 0.20844972067039108,
+      "listing_count": 862,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Jogeshwari East": {
+      "median_price_lakhs": 138.0,
+      "median_price_per_sqft": 0.2,
+      "listing_count": 166,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Jogeshwari West": {
+      "median_price_lakhs": 141.0,
+      "median_price_per_sqft": 0.18610421836228289,
+      "listing_count": 441,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Juhu": {
+      "median_price_lakhs": 700.0,
+      "median_price_per_sqft": 0.41748366013071897,
+      "listing_count": 138,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Kalamboli": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.07588053198807612,
+      "listing_count": 218,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Kalyan East": {
+      "median_price_lakhs": 40.9,
+      "median_price_per_sqft": 0.06591188524590164,
+      "listing_count": 336,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Kalyan West": {
+      "median_price_lakhs": 55.0,
+      "median_price_per_sqft": 0.07075471698113207,
+      "listing_count": 1815,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Kamothe": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.08108108108108109,
+      "listing_count": 619,
+      "price_tier": "Mid",
+      "mumbai_zone": "Harbour Line"
+    },
+    "Kandivali East": {
+      "median_price_lakhs": 153.0,
+      "median_price_per_sqft": 0.18292682926829268,
+      "listing_count": 2568,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Kandivali West": {
+      "median_price_lakhs": 146.0,
+      "median_price_per_sqft": 0.19337448559670783,
+      "listing_count": 1448,
+      "price_tier": "Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Kanjurmarg": {
+      "median_price_lakhs": 169.0,
+      "median_price_per_sqft": 0.20833333333333334,
+      "listing_count": 1332,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Karanjade": {
+      "median_price_lakhs": 47.0,
+      "median_price_per_sqft": 0.06705947063137543,
+      "listing_count": 196,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Karjat": {
+      "median_price_lakhs": 23.5,
+      "median_price_per_sqft": 0.041368456078083406,
+      "listing_count": 456,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Khar": {
+      "median_price_lakhs": 495.0,
+      "median_price_per_sqft": 0.38333333333333336,
+      "listing_count": 77,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Kharghar": {
+      "median_price_lakhs": 125.0,
+      "median_price_per_sqft": 0.1036036036036036,
+      "listing_count": 2362,
+      "price_tier": "Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Khopoli": {
+      "median_price_lakhs": 33.08,
+      "median_price_per_sqft": 0.04440267335004178,
+      "listing_count": 72,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Koper Khairane": {
+      "median_price_lakhs": 132.5,
+      "median_price_per_sqft": 0.12727272727272726,
+      "listing_count": 286,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Kurla": {
+      "median_price_lakhs": 115.0,
+      "median_price_per_sqft": 0.16129032258064516,
+      "listing_count": 341,
+      "price_tier": "Mid",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Lower Parel": {
+      "median_price_lakhs": 650.0,
+      "median_price_per_sqft": 0.4010723860589812,
+      "listing_count": 328,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Mahalaxmi": {
+      "median_price_lakhs": 722.5,
+      "median_price_per_sqft": 0.4728176521829472,
+      "listing_count": 130,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Malad East": {
+      "median_price_lakhs": 167.5,
+      "median_price_per_sqft": 0.18735294117647058,
+      "listing_count": 870,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Malad West": {
+      "median_price_lakhs": 165.0,
+      "median_price_per_sqft": 0.19153365718251214,
+      "listing_count": 1301,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Matunga": {
+      "median_price_lakhs": 350.0,
+      "median_price_per_sqft": 0.28348214285714285,
+      "listing_count": 86,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Mira Road East": {
+      "median_price_lakhs": 76.99,
+      "median_price_per_sqft": 0.0912280701754386,
+      "listing_count": 9902,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Mulund East": {
+      "median_price_lakhs": 196.0,
+      "median_price_per_sqft": 0.1878654970760234,
+      "listing_count": 218,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Mulund West": {
+      "median_price_lakhs": 190.0,
+      "median_price_per_sqft": 0.200181323662738,
+      "listing_count": 1526,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Nahur East": {
+      "median_price_lakhs": 188.0,
+      "median_price_per_sqft": 0.206198074715583,
+      "listing_count": 84,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Naigaon East": {
+      "median_price_lakhs": 34.91,
+      "median_price_per_sqft": 0.056074766355140186,
+      "listing_count": 847,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Nala Sopara": {
+      "median_price_lakhs": 27.75,
+      "median_price_per_sqft": 0.04807692307692308,
+      "listing_count": 327,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Neral": {
+      "median_price_lakhs": 22.0,
+      "median_price_per_sqft": 0.035164835164835165,
+      "listing_count": 254,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Nerul": {
+      "median_price_lakhs": 267.5,
+      "median_price_per_sqft": 0.17840958135520069,
+      "listing_count": 220,
+      "price_tier": "Premium",
+      "mumbai_zone": "Harbour Line"
+    },
+    "Other": {
+      "median_price_lakhs": 111.5,
+      "median_price_per_sqft": 0.12207792207792208,
+      "listing_count": 1046,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Palghar": {
+      "median_price_lakhs": 20.0,
+      "median_price_per_sqft": 0.0463235294117647,
+      "listing_count": 163,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Panvel": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.08603843682419982,
+      "listing_count": 1474,
+      "price_tier": "Mid",
+      "mumbai_zone": "Harbour Line"
+    },
+    "Parel": {
+      "median_price_lakhs": 382.5,
+      "median_price_per_sqft": 0.358695652173913,
+      "listing_count": 198,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Powai": {
+      "median_price_lakhs": 239.0,
+      "median_price_per_sqft": 0.23652391041162227,
+      "listing_count": 1418,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Prabhadevi": {
+      "median_price_lakhs": 750.0,
+      "median_price_per_sqft": 0.4189189189189189,
+      "listing_count": 159,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Rasayani": {
+      "median_price_lakhs": 27.0,
+      "median_price_per_sqft": 0.08805111821086262,
+      "listing_count": 63,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Sanpada": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.16363636363636364,
+      "listing_count": 227,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Santacruz East": {
+      "median_price_lakhs": 211.0,
+      "median_price_per_sqft": 0.24050632911392406,
+      "listing_count": 431,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Santacruz West": {
+      "median_price_lakhs": 580.0,
+      "median_price_per_sqft": 0.42105263157894735,
+      "listing_count": 135,
+      "price_tier": "Premium",
+      "mumbai_zone": "Western Suburbs"
+    },
+    "Seawoods": {
+      "median_price_lakhs": 225.0,
+      "median_price_per_sqft": 0.18292682926829268,
+      "listing_count": 349,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Shil Phata": {
+      "median_price_lakhs": 52.0,
+      "median_price_per_sqft": 0.0693212669683258,
+      "listing_count": 216,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Sion": {
+      "median_price_lakhs": 200.0,
+      "median_price_per_sqft": 0.22153846153846155,
+      "listing_count": 339,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Taloja": {
+      "median_price_lakhs": 43.0,
+      "median_price_per_sqft": 0.06190476190476191,
+      "listing_count": 882,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Thane East": {
+      "median_price_lakhs": 116.0,
+      "median_price_per_sqft": 0.19270778384993564,
+      "listing_count": 174,
+      "price_tier": "Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Thane West": {
+      "median_price_lakhs": 151.0,
+      "median_price_per_sqft": 0.13615023474178403,
+      "listing_count": 14868,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Titwala": {
+      "median_price_lakhs": 32.0,
+      "median_price_per_sqft": 0.04320385107685458,
+      "listing_count": 112,
+      "price_tier": "Budget",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Ulwe": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.07871386430678466,
+      "listing_count": 1416,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Vasai": {
+      "median_price_lakhs": 45.0,
+      "median_price_per_sqft": 0.06808510638297872,
+      "listing_count": 591,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Vashi": {
+      "median_price_lakhs": 222.00000000000003,
+      "median_price_per_sqft": 0.17476923076923076,
+      "listing_count": 96,
+      "price_tier": "Upper-Mid",
+      "mumbai_zone": "Harbour Line"
+    },
+    "Vikhroli": {
+      "median_price_lakhs": 102.0,
+      "median_price_per_sqft": 0.17857142857142858,
+      "listing_count": 979,
+      "price_tier": "Mid",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Ville Parle East": {
+      "median_price_lakhs": 250.0,
+      "median_price_per_sqft": 0.24849520632013344,
+      "listing_count": 118,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Ville Parle West": {
+      "median_price_lakhs": 382.5,
+      "median_price_per_sqft": 0.42902711323763953,
+      "listing_count": 82,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    },
+    "Virar": {
+      "median_price_lakhs": 37.99,
+      "median_price_per_sqft": 0.055629032258064516,
+      "listing_count": 1557,
+      "price_tier": "Budget",
+      "mumbai_zone": "Thane / Navi Mumbai"
+    },
+    "Wadala": {
+      "median_price_lakhs": 276.0,
+      "median_price_per_sqft": 0.2668759811616955,
+      "listing_count": 873,
+      "price_tier": "Premium",
+      "mumbai_zone": "Central Mumbai"
+    },
+    "Worli": {
+      "median_price_lakhs": 760.0,
+      "median_price_per_sqft": 0.4032258064516129,
+      "listing_count": 219,
+      "price_tier": "Premium",
+      "mumbai_zone": "Other Mumbai"
+    }
+  },
+  "locality_stats": {
+    "A And O F Residences": {
+      "median_price_lakhs": 185.0,
+      "median_price_per_sqft": 0.2,
+      "listing_count": 51,
+      "primary_region": "Malad East"
+    },
+    "A H A H Sapphire": {
+      "median_price_lakhs": 70.0,
+      "median_price_per_sqft": 0.08149779735682819,
+      "listing_count": 67,
+      "primary_region": "Mira Road East"
+    },
+    "ACME Eucalyptia": {
+      "median_price_lakhs": 133.0,
+      "median_price_per_sqft": 0.22,
+      "listing_count": 54,
+      "primary_region": "Thane West"
+    },
+    "ACME Oasis": {
+      "median_price_lakhs": 190.0,
+      "median_price_per_sqft": 0.18421052631578946,
+      "listing_count": 47,
+      "primary_region": "Kandivali East"
+    },
+    "ACME Ozone": {
+      "median_price_lakhs": 175.0,
+      "median_price_per_sqft": 0.11373976342129208,
+      "listing_count": 149,
+      "primary_region": "Thane West"
+    },
+    "ACME Ozone Phase 2": {
+      "median_price_lakhs": 158.0,
+      "median_price_per_sqft": 0.107981220657277,
+      "listing_count": 467,
+      "primary_region": "Thane West"
+    },
+    "AVA Guru Dwarka": {
+      "median_price_lakhs": 84.51,
+      "median_price_per_sqft": 0.15555555555555556,
+      "listing_count": 37,
+      "primary_region": "Dahisar"
+    },
+    "Aadi Allure Wings A To E": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.23874488403819918,
+      "listing_count": 53,
+      "primary_region": "Kanjurmarg"
+    },
+    "Adhiraj Capital City": {
+      "median_price_lakhs": 86.5,
+      "median_price_per_sqft": 0.12872340425531914,
+      "listing_count": 45,
+      "primary_region": "Kharghar"
+    },
+    "Adhiraj Mainland": {
+      "median_price_lakhs": 116.0,
+      "median_price_per_sqft": 0.10735826296743065,
+      "listing_count": 35,
+      "primary_region": "Kharghar"
+    },
+    "Adityaraj Avenue": {
+      "median_price_lakhs": 77.61,
+      "median_price_per_sqft": 0.16,
+      "listing_count": 53,
+      "primary_region": "Vikhroli"
+    },
+    "Adityaraj Breeze": {
+      "median_price_lakhs": 74.0,
+      "median_price_per_sqft": 0.148,
+      "listing_count": 37,
+      "primary_region": "Vikhroli"
+    },
+    "Agarwal Lifestyle": {
+      "median_price_lakhs": 36.5,
+      "median_price_per_sqft": 0.05287769784172662,
+      "listing_count": 52,
+      "primary_region": "Virar"
+    },
+    "Agarwal Paramount": {
+      "median_price_lakhs": 48.95,
+      "median_price_per_sqft": 0.09892388451443569,
+      "listing_count": 207,
+      "primary_region": "Virar"
+    },
+    "Ahuja Linkpark": {
+      "median_price_lakhs": 265.0,
+      "median_price_per_sqft": 0.2542857142857143,
+      "listing_count": 40,
+      "primary_region": "Malad West"
+    },
+    "Ajmera Bhakti Park": {
+      "median_price_lakhs": 187.0,
+      "median_price_per_sqft": 0.20382246376811594,
+      "listing_count": 128,
+      "primary_region": "Wadala"
+    },
+    "Ajmera One Kalyan": {
+      "median_price_lakhs": 61.95,
+      "median_price_per_sqft": 0.07659649122807018,
+      "listing_count": 38,
+      "primary_region": "Kalyan West"
+    },
+    "Amar Vinay Heritage": {
+      "median_price_lakhs": 80.0,
+      "median_price_per_sqft": 0.08971428571428572,
+      "listing_count": 227,
+      "primary_region": "Mira Road East"
+    },
+    "Amisha Empire Phase I": {
+      "median_price_lakhs": 100.0,
+      "median_price_per_sqft": 0.10080645161290322,
+      "listing_count": 91,
+      "primary_region": "Mira Road East"
+    },
+    "Anant Tara": {
+      "median_price_lakhs": 116.0,
+      "median_price_per_sqft": 0.25487256371814093,
+      "listing_count": 36,
+      "primary_region": "Kandivali West"
+    },
+    "Arihant Advika": {
+      "median_price_lakhs": 224.00000000000003,
+      "median_price_per_sqft": 0.17549407114624507,
+      "listing_count": 42,
+      "primary_region": "Vashi"
+    },
+    "Arihant Clan Aalishan Phase 1": {
+      "median_price_lakhs": 120.0,
+      "median_price_per_sqft": 0.09603072983354674,
+      "listing_count": 51,
+      "primary_region": "Kharghar"
+    },
+    "Ariisto Bellanza Phase 1 Wing A B C At The Prestige City": {
+      "median_price_lakhs": 189.0,
+      "median_price_per_sqft": 0.21379310344827587,
+      "listing_count": 35,
+      "primary_region": "Mulund West"
+    },
+    "Arkade Art": {
+      "median_price_lakhs": 86.0,
+      "median_price_per_sqft": 0.09665610687022899,
+      "listing_count": 42,
+      "primary_region": "Mira Road East"
+    },
+    "Arkade Aspire": {
+      "median_price_lakhs": 216.5,
+      "median_price_per_sqft": 0.29520865533230295,
+      "listing_count": 42,
+      "primary_region": "Goregaon East"
+    },
+    "Arkade Earth": {
+      "median_price_lakhs": 171.0,
+      "median_price_per_sqft": 0.23408541498791297,
+      "listing_count": 78,
+      "primary_region": "Kanjurmarg"
+    },
+    "Ashar Edge": {
+      "median_price_lakhs": 140.0,
+      "median_price_per_sqft": 0.17123161764705883,
+      "listing_count": 46,
+      "primary_region": "Thane West"
+    },
+    "Ashish Samriddhi": {
+      "median_price_lakhs": 114.5,
+      "median_price_per_sqft": 0.10240130240130241,
+      "listing_count": 54,
+      "primary_region": "Mira Road East"
+    },
+    "Avant Hillway": {
+      "median_price_lakhs": 121.5,
+      "median_price_per_sqft": 0.19562763497892016,
+      "listing_count": 48,
+      "primary_region": "Goregaon East"
+    },
+    "BG Shirke Parijat Hill View": {
+      "median_price_lakhs": 96.0,
+      "median_price_per_sqft": 0.1720647773279352,
+      "listing_count": 41,
+      "primary_region": "Borivali East"
+    },
+    "Bachraj Landmark": {
+      "median_price_lakhs": 38.0,
+      "median_price_per_sqft": 0.10017905117304968,
+      "listing_count": 50,
+      "primary_region": "Virar"
+    },
+    "Bachraj Lifespace": {
+      "median_price_lakhs": 40.99,
+      "median_price_per_sqft": 0.10949061662198392,
+      "listing_count": 35,
+      "primary_region": "Virar"
+    },
+    "Balaji Delta Tower 2": {
+      "median_price_lakhs": 137.0,
+      "median_price_per_sqft": 0.18256772673733804,
+      "listing_count": 37,
+      "primary_region": "Ulwe"
+    },
+    "Bhagwati Bhagwati Greens 2": {
+      "median_price_lakhs": 177.5,
+      "median_price_per_sqft": 0.2608695652173913,
+      "listing_count": 44,
+      "primary_region": "Kharghar"
+    },
+    "Bhoomi Acres": {
+      "median_price_lakhs": 69.5,
+      "median_price_per_sqft": 0.09651741293532339,
+      "listing_count": 65,
+      "primary_region": "Thane West"
+    },
+    "Bhoomi Acropolis": {
+      "median_price_lakhs": 39.945,
+      "median_price_per_sqft": 0.048,
+      "listing_count": 62,
+      "primary_region": "Virar"
+    },
+    "Blue Baron Zeal Regency": {
+      "median_price_lakhs": 32.0,
+      "median_price_per_sqft": 0.06827133479212254,
+      "listing_count": 47,
+      "primary_region": "Virar"
+    },
+    "Bombay ICC": {
+      "median_price_lakhs": 817.0,
+      "median_price_per_sqft": 0.3997589393330655,
+      "listing_count": 100,
+      "primary_region": "Wadala"
+    },
+    "Bombay Island City Center": {
+      "median_price_lakhs": 730.5,
+      "median_price_per_sqft": 0.34071806429553064,
+      "listing_count": 40,
+      "primary_region": "Dadar East"
+    },
+    "CCI Rivali Park WinterGreen": {
+      "median_price_lakhs": 250.0,
+      "median_price_per_sqft": 0.21052631578947367,
+      "listing_count": 91,
+      "primary_region": "Borivali East"
+    },
+    "Chaitanya The Greens Radhakunj": {
+      "median_price_lakhs": 151.0,
+      "median_price_per_sqft": 0.20178688964189073,
+      "listing_count": 50,
+      "primary_region": "Kandivali East"
+    },
+    "Chandak 34 Park Estate": {
+      "median_price_lakhs": 132.0,
+      "median_price_per_sqft": 0.18648622047244096,
+      "listing_count": 64,
+      "primary_region": "Goregaon West"
+    },
+    "Chandak Chandak Greenairy": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.2265193370165746,
+      "listing_count": 47,
+      "primary_region": "Borivali East"
+    },
+    "Chandak Magathane": {
+      "median_price_lakhs": 163.0,
+      "median_price_per_sqft": 0.2,
+      "listing_count": 49,
+      "primary_region": "Borivali East"
+    },
+    "Cosmos Horizon": {
+      "median_price_lakhs": 140.0,
+      "median_price_per_sqft": 0.1267605633802817,
+      "listing_count": 334,
+      "primary_region": "Thane West"
+    },
+    "Crystal Armus A To C": {
+      "median_price_lakhs": 110.0,
+      "median_price_per_sqft": 0.20754716981132076,
+      "listing_count": 39,
+      "primary_region": "Chembur"
+    },
+    "DB Ozone": {
+      "median_price_lakhs": 66.94,
+      "median_price_per_sqft": 0.09401709401709402,
+      "listing_count": 99,
+      "primary_region": "Dahisar"
+    },
+    "DSS Mahavir Millennium": {
+      "median_price_lakhs": 125.0,
+      "median_price_per_sqft": 0.12195121951219512,
+      "listing_count": 101,
+      "primary_region": "Thane West"
+    },
+    "Darvesh Darvesh Horizon": {
+      "median_price_lakhs": 100.0,
+      "median_price_per_sqft": 0.10655737704918032,
+      "listing_count": 72,
+      "primary_region": "Mira Road East"
+    },
+    "Delta Woods": {
+      "median_price_lakhs": 89.0,
+      "median_price_per_sqft": 0.09375,
+      "listing_count": 35,
+      "primary_region": "Mira Road East"
+    },
+    "Dimple Westwood": {
+      "median_price_lakhs": 99.0,
+      "median_price_per_sqft": 0.23205741626794257,
+      "listing_count": 63,
+      "primary_region": "Kandivali West"
+    },
+    "Dimples 19 North": {
+      "median_price_lakhs": 89.7,
+      "median_price_per_sqft": 0.22811059907834103,
+      "listing_count": 65,
+      "primary_region": "Kandivali West"
+    },
+    "Dimples 73 East": {
+      "median_price_lakhs": 265.0,
+      "median_price_per_sqft": 0.26581381840848883,
+      "listing_count": 50,
+      "primary_region": "Kandivali West"
+    },
+    "Dosti Dosti Tulip Dosti West County": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.1590909090909091,
+      "listing_count": 38,
+      "primary_region": "Thane West"
+    },
+    "Dosti Imperia": {
+      "median_price_lakhs": 180.0,
+      "median_price_per_sqft": 0.144,
+      "listing_count": 68,
+      "primary_region": "Thane West"
+    },
+    "Dosti Vihar": {
+      "median_price_lakhs": 140.0,
+      "median_price_per_sqft": 0.13761923458900155,
+      "listing_count": 36,
+      "primary_region": "Thane West"
+    },
+    "Dosti West County": {
+      "median_price_lakhs": 95.0,
+      "median_price_per_sqft": 0.13654618473895583,
+      "listing_count": 190,
+      "primary_region": "Thane West"
+    },
+    "Dosti West County Phase 4 Dosti Pine": {
+      "median_price_lakhs": 86.41,
+      "median_price_per_sqft": 0.12976470588235292,
+      "listing_count": 45,
+      "primary_region": "Thane West"
+    },
+    "Dotom Blumen": {
+      "median_price_lakhs": 130.0,
+      "median_price_per_sqft": 0.24222222222222223,
+      "listing_count": 43,
+      "primary_region": "Vikhroli"
+    },
+    "Dream Arihant Niwara Sky": {
+      "median_price_lakhs": 178.0,
+      "median_price_per_sqft": 0.14799672935404742,
+      "listing_count": 48,
+      "primary_region": "Sion"
+    },
+    "Dynamic Crest Phase I Rimo Everest": {
+      "median_price_lakhs": 42.05,
+      "median_price_per_sqft": 0.12821206190397028,
+      "listing_count": 36,
+      "primary_region": "Dombivali"
+    },
+    "Dynamix Parkwoods": {
+      "median_price_lakhs": 107.0,
+      "median_price_per_sqft": 0.1092436974789916,
+      "listing_count": 45,
+      "primary_region": "Thane West"
+    },
+    "Enso Enso Sanza": {
+      "median_price_lakhs": 84.4,
+      "median_price_per_sqft": 0.12470588235294118,
+      "listing_count": 121,
+      "primary_region": "Kandivali East"
+    },
+    "GBK GBK Vishwajeet Pink City": {
+      "median_price_lakhs": 33.4,
+      "median_price_per_sqft": 0.04651810584958217,
+      "listing_count": 43,
+      "primary_region": "Ambernath East"
+    },
+    "Godrej Ascend": {
+      "median_price_lakhs": 118.0,
+      "median_price_per_sqft": 0.19337748344370861,
+      "listing_count": 114,
+      "primary_region": "Thane East"
+    },
+    "Godrej Emerald": {
+      "median_price_lakhs": 128.0,
+      "median_price_per_sqft": 0.1403678606001936,
+      "listing_count": 50,
+      "primary_region": "Thane West"
+    },
+    "Godrej Horizon Phase I": {
+      "median_price_lakhs": 290.0,
+      "median_price_per_sqft": 0.369980879541109,
+      "listing_count": 56,
+      "primary_region": "Wadala"
+    },
+    "Godrej Nest": {
+      "median_price_lakhs": 165.0,
+      "median_price_per_sqft": 0.1921134421134421,
+      "listing_count": 68,
+      "primary_region": "Kandivali East"
+    },
+    "Godrej Nirvaan": {
+      "median_price_lakhs": 41.63,
+      "median_price_per_sqft": 0.09803439803439803,
+      "listing_count": 65,
+      "primary_region": "Kalyan West"
+    },
+    "Godrej RKS": {
+      "median_price_lakhs": 690.0,
+      "median_price_per_sqft": 0.4580559254327563,
+      "listing_count": 37,
+      "primary_region": "Chembur"
+    },
+    "Godrej The Trees": {
+      "median_price_lakhs": 310.0,
+      "median_price_per_sqft": 0.3,
+      "listing_count": 51,
+      "primary_region": "Vikhroli"
+    },
+    "Godrej The Trees Residential Phase 1": {
+      "median_price_lakhs": 192.0,
+      "median_price_per_sqft": 0.22813688212927757,
+      "listing_count": 63,
+      "primary_region": "Vikhroli"
+    },
+    "Godrej Tranquil": {
+      "median_price_lakhs": 160.0,
+      "median_price_per_sqft": 0.1802788844621514,
+      "listing_count": 105,
+      "primary_region": "Kandivali East"
+    },
+    "Godrej Urban Park": {
+      "median_price_lakhs": 184.5,
+      "median_price_per_sqft": 0.20549450549450549,
+      "listing_count": 104,
+      "primary_region": "Powai"
+    },
+    "Goodwill Paradise": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.10416666666666667,
+      "listing_count": 36,
+      "primary_region": "Kharghar"
+    },
+    "Gurukrupa Guru Atman": {
+      "median_price_lakhs": 64.0,
+      "median_price_per_sqft": 0.06906474820143885,
+      "listing_count": 47,
+      "primary_region": "Kalyan West"
+    },
+    "Gurukrupa Marina Enclave": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.16686274509803922,
+      "listing_count": 96,
+      "primary_region": "Malad West"
+    },
+    "Gurukrupa Marina Enclave M N Phase ll": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.16055846422338568,
+      "listing_count": 37,
+      "primary_region": "Malad West"
+    },
+    "Happy Home Sarvoday Greens": {
+      "median_price_lakhs": 35.97,
+      "median_price_per_sqft": 0.07164383561643835,
+      "listing_count": 52,
+      "primary_region": "Bhiwandi"
+    },
+    "Haware Haware Citi": {
+      "median_price_lakhs": 42.9,
+      "median_price_per_sqft": 0.06914790337004326,
+      "listing_count": 88,
+      "primary_region": "Thane West"
+    },
+    "Hetal Infra Riddhi Siddhi": {
+      "median_price_lakhs": 63.5,
+      "median_price_per_sqft": 0.08672469891219892,
+      "listing_count": 56,
+      "primary_region": "Mira Road East"
+    },
+    "Hiranandani Castalia": {
+      "median_price_lakhs": 263.0,
+      "median_price_per_sqft": 0.2446400361092304,
+      "listing_count": 50,
+      "primary_region": "Kandivali West"
+    },
+    "Hiranandani Estate": {
+      "median_price_lakhs": 550.0,
+      "median_price_per_sqft": 0.1357142857142857,
+      "listing_count": 226,
+      "primary_region": "Thane West"
+    },
+    "Hiranandani Fortune City": {
+      "median_price_lakhs": 98.565,
+      "median_price_per_sqft": 0.061,
+      "listing_count": 94,
+      "primary_region": "Panvel"
+    },
+    "Hiranandani Meadows": {
+      "median_price_lakhs": 295.0,
+      "median_price_per_sqft": 0.17857142857142858,
+      "listing_count": 861,
+      "primary_region": "Thane West"
+    },
+    "Hiranandani Northside": {
+      "median_price_lakhs": 285.0,
+      "median_price_per_sqft": 0.17419354838709677,
+      "listing_count": 68,
+      "primary_region": "Thane West"
+    },
+    "Hiranandani One Hiranandani Park": {
+      "median_price_lakhs": 425.0,
+      "median_price_per_sqft": 0.1792452830188679,
+      "listing_count": 351,
+      "primary_region": "Thane West"
+    },
+    "Hiranandani Regent Hill C D And E Wing": {
+      "median_price_lakhs": 143.0,
+      "median_price_per_sqft": 0.24166666666666667,
+      "listing_count": 37,
+      "primary_region": "Powai"
+    },
+    "Hiranandani Rodas Enclave": {
+      "median_price_lakhs": 450.0,
+      "median_price_per_sqft": 0.16346153846153846,
+      "listing_count": 162,
+      "primary_region": "Thane West"
+    },
+    "Hiranandani Woodrose": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.1590909090909091,
+      "listing_count": 42,
+      "primary_region": "Thane West"
+    },
+    "Homewell Agarwal Maple": {
+      "median_price_lakhs": 78.0,
+      "median_price_per_sqft": 0.16,
+      "listing_count": 49,
+      "primary_region": "Borivali West"
+    },
+    "Hubtown The Premiere Residences Beverly": {
+      "median_price_lakhs": 258.0,
+      "median_price_per_sqft": 0.2692307692307692,
+      "listing_count": 56,
+      "primary_region": "Andheri West"
+    },
+    "Indiabulls Greens": {
+      "median_price_lakhs": 65.0,
+      "median_price_per_sqft": 0.05714285714285714,
+      "listing_count": 101,
+      "primary_region": "Panvel"
+    },
+    "Indiabulls Greens 2": {
+      "median_price_lakhs": 67.0,
+      "median_price_per_sqft": 0.06019261637239166,
+      "listing_count": 45,
+      "primary_region": "Panvel"
+    },
+    "Indiabulls Park": {
+      "median_price_lakhs": 104.0,
+      "median_price_per_sqft": 0.09333333333333334,
+      "listing_count": 59,
+      "primary_region": "Panvel"
+    },
+    "Interintel Gurnani Palms Wing A": {
+      "median_price_lakhs": 260.0,
+      "median_price_per_sqft": 0.2727272727272727,
+      "listing_count": 49,
+      "primary_region": "Andheri West"
+    },
+    "JK IRIS": {
+      "median_price_lakhs": 90.0,
+      "median_price_per_sqft": 0.09221311475409837,
+      "listing_count": 209,
+      "primary_region": "Mira Road East"
+    },
+    "JK IRIS Tower 1 And 2": {
+      "median_price_lakhs": 85.51,
+      "median_price_per_sqft": 0.08619173262972735,
+      "listing_count": 87,
+      "primary_region": "Mira Road East"
+    },
+    "JP Codename Dream Home Tower B": {
+      "median_price_lakhs": 73.25,
+      "median_price_per_sqft": 0.08985915492957747,
+      "listing_count": 231,
+      "primary_region": "Mira Road East"
+    },
+    "JP Codename Dream Home Tower C": {
+      "median_price_lakhs": 85.0,
+      "median_price_per_sqft": 0.09017857142857143,
+      "listing_count": 194,
+      "primary_region": "Mira Road East"
+    },
+    "JP Codename HOTCAKE": {
+      "median_price_lakhs": 64.08500000000001,
+      "median_price_per_sqft": 0.09283380018674137,
+      "listing_count": 118,
+      "primary_region": "Mira Road East"
+    },
+    "JP Decks": {
+      "median_price_lakhs": 230.0,
+      "median_price_per_sqft": 0.1800595238095238,
+      "listing_count": 34,
+      "primary_region": "Malad East"
+    },
+    "JP JP North Phase 5 Euphoria": {
+      "median_price_lakhs": 117.5,
+      "median_price_per_sqft": 0.1003048780487805,
+      "listing_count": 114,
+      "primary_region": "Mira Road East"
+    },
+    "JP North": {
+      "median_price_lakhs": 82.0,
+      "median_price_per_sqft": 0.14553990610328638,
+      "listing_count": 220,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Aviva": {
+      "median_price_lakhs": 52.0,
+      "median_price_per_sqft": 0.09619791666666666,
+      "listing_count": 63,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Barcelona": {
+      "median_price_lakhs": 79.5,
+      "median_price_per_sqft": 0.10140518305224186,
+      "listing_count": 360,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Barcelona Wing D": {
+      "median_price_lakhs": 119.0,
+      "median_price_per_sqft": 0.102807662030963,
+      "listing_count": 158,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Celeste": {
+      "median_price_lakhs": 92.755,
+      "median_price_per_sqft": 0.09699519230769231,
+      "listing_count": 138,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Elara": {
+      "median_price_lakhs": 86.0,
+      "median_price_per_sqft": 0.09683995922528033,
+      "listing_count": 45,
+      "primary_region": "Mira Road East"
+    },
+    "JP North Phase 6 Alexa": {
+      "median_price_lakhs": 64.5,
+      "median_price_per_sqft": 0.09066666666666667,
+      "listing_count": 133,
+      "primary_region": "Mira Road East"
+    },
+    "JSB Nakshatra Aarambh": {
+      "median_price_lakhs": 38.0,
+      "median_price_per_sqft": 0.051170886075949364,
+      "listing_count": 55,
+      "primary_region": "Naigaon East"
+    },
+    "JV Ariana Residency": {
+      "median_price_lakhs": 77.0,
+      "median_price_per_sqft": 0.19973190348525469,
+      "listing_count": 47,
+      "primary_region": "Borivali East"
+    },
+    "Juhi Niharika absolute": {
+      "median_price_lakhs": 70.0,
+      "median_price_per_sqft": 0.15587529976019185,
+      "listing_count": 69,
+      "primary_region": "Kharghar"
+    },
+    "K Raheja Interface Heights": {
+      "median_price_lakhs": 222.5,
+      "median_price_per_sqft": 0.20983870967741935,
+      "listing_count": 34,
+      "primary_region": "Malad West"
+    },
+    "K Raheja Raheja Residency": {
+      "median_price_lakhs": 195.0,
+      "median_price_per_sqft": 0.18785714285714286,
+      "listing_count": 42,
+      "primary_region": "Malad East"
+    },
+    "KK Dosti Oro 67": {
+      "median_price_lakhs": 127.5,
+      "median_price_per_sqft": 0.19167579408543264,
+      "listing_count": 62,
+      "primary_region": "Kandivali West"
+    },
+    "Kabra Happy Valley": {
+      "median_price_lakhs": 115.0,
+      "median_price_per_sqft": 0.10164319248826292,
+      "listing_count": 78,
+      "primary_region": "Thane West"
+    },
+    "Kakad Paradise Phase 2": {
+      "median_price_lakhs": 71.675,
+      "median_price_per_sqft": 0.0903219512195122,
+      "listing_count": 98,
+      "primary_region": "Mira Road East"
+    },
+    "Kalpataru Elegante": {
+      "median_price_lakhs": 149.5,
+      "median_price_per_sqft": 0.18703274393338729,
+      "listing_count": 46,
+      "primary_region": "Kandivali East"
+    },
+    "Kalpataru Eternia At Kalpataru Parkcity": {
+      "median_price_lakhs": 178.0,
+      "median_price_per_sqft": 0.18088518923947344,
+      "listing_count": 74,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Hills": {
+      "median_price_lakhs": 140.0,
+      "median_price_per_sqft": 0.11666666666666667,
+      "listing_count": 225,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Immensa": {
+      "median_price_lakhs": 155.0,
+      "median_price_per_sqft": 0.20347826086956522,
+      "listing_count": 89,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Kalpataru Elitus": {
+      "median_price_lakhs": 180.0,
+      "median_price_per_sqft": 0.17902995720399428,
+      "listing_count": 69,
+      "primary_region": "Mulund West"
+    },
+    "Kalpataru Kalpataru Vienta": {
+      "median_price_lakhs": 330.0,
+      "median_price_per_sqft": 0.26137418755803155,
+      "listing_count": 35,
+      "primary_region": "Kandivali East"
+    },
+    "Kalpataru Paramount": {
+      "median_price_lakhs": 127.0,
+      "median_price_per_sqft": 0.16476230661040786,
+      "listing_count": 68,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Parkcity": {
+      "median_price_lakhs": 162.0,
+      "median_price_per_sqft": 0.17065217391304346,
+      "listing_count": 152,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Siddhachal Elegant": {
+      "median_price_lakhs": 400.0,
+      "median_price_per_sqft": 0.14209591474245115,
+      "listing_count": 86,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Siddhachal Elite": {
+      "median_price_lakhs": 354.0,
+      "median_price_per_sqft": 0.14219694276573053,
+      "listing_count": 196,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Srishti": {
+      "median_price_lakhs": 132.0,
+      "median_price_per_sqft": 0.12083333333333333,
+      "listing_count": 39,
+      "primary_region": "Mira Road East"
+    },
+    "Kalpataru Srishti Namaah": {
+      "median_price_lakhs": 108.5,
+      "median_price_per_sqft": 0.10408434187071958,
+      "listing_count": 186,
+      "primary_region": "Mira Road East"
+    },
+    "Kalpataru Sunrise": {
+      "median_price_lakhs": 110.0,
+      "median_price_per_sqft": 0.12408759124087591,
+      "listing_count": 38,
+      "primary_region": "Thane West"
+    },
+    "Kalpataru Vivant South Wing B": {
+      "median_price_lakhs": 257.0,
+      "median_price_per_sqft": 0.2962245885769603,
+      "listing_count": 39,
+      "primary_region": "Andheri East"
+    },
+    "Kanakia Codename Future D": {
+      "median_price_lakhs": 231.0,
+      "median_price_per_sqft": 0.23729010642491133,
+      "listing_count": 38,
+      "primary_region": "Powai"
+    },
+    "Kanakia Niharika": {
+      "median_price_lakhs": 165.0,
+      "median_price_per_sqft": 0.1375,
+      "listing_count": 44,
+      "primary_region": "Thane West"
+    },
+    "Kanakia Paris": {
+      "median_price_lakhs": 365.0,
+      "median_price_per_sqft": 0.3026315789473684,
+      "listing_count": 61,
+      "primary_region": "Bandra Kurla Complex"
+    },
+    "Kanakia Silicon Valley": {
+      "median_price_lakhs": 241.0,
+      "median_price_per_sqft": 0.24971098265895952,
+      "listing_count": 68,
+      "primary_region": "Powai"
+    },
+    "Kanakia Zenworld Phase I": {
+      "median_price_lakhs": 128.0,
+      "median_price_per_sqft": 0.21929767934715008,
+      "listing_count": 116,
+      "primary_region": "Kanjurmarg"
+    },
+    "Kanakia Zenworld Phase II": {
+      "median_price_lakhs": 155.0,
+      "median_price_per_sqft": 0.1983739837398374,
+      "listing_count": 44,
+      "primary_region": "Kanjurmarg"
+    },
+    "Kesar Gardens": {
+      "median_price_lakhs": 112.0,
+      "median_price_per_sqft": 0.11144278606965174,
+      "listing_count": 35,
+      "primary_region": "Kharghar"
+    },
+    "Kohinoor Eden": {
+      "median_price_lakhs": 32.0,
+      "median_price_per_sqft": 0.05658627087198516,
+      "listing_count": 45,
+      "primary_region": "Kalyan East"
+    },
+    "Kohinoor Eden B1": {
+      "median_price_lakhs": 31.5,
+      "median_price_per_sqft": 0.07874692874692873,
+      "listing_count": 35,
+      "primary_region": "Kalyan East"
+    },
+    "L And T Emerald Isle": {
+      "median_price_lakhs": 304.0,
+      "median_price_per_sqft": 0.301056338028169,
+      "listing_count": 64,
+      "primary_region": "Powai"
+    },
+    "L And T L And T Emerald Isle": {
+      "median_price_lakhs": 263.0,
+      "median_price_per_sqft": 0.24132352941176471,
+      "listing_count": 48,
+      "primary_region": "Powai"
+    },
+    "L And T L&T Veridian At Emerald Isle": {
+      "median_price_lakhs": 197.0,
+      "median_price_per_sqft": 0.312900274473925,
+      "listing_count": 41,
+      "primary_region": "Powai"
+    },
+    "L And T Rejuve 360 Tower A": {
+      "median_price_lakhs": 240.0,
+      "median_price_per_sqft": 0.24363574692944873,
+      "listing_count": 86,
+      "primary_region": "Mulund West"
+    },
+    "L And T Seawoods Residences North Towers": {
+      "median_price_lakhs": 315.0,
+      "median_price_per_sqft": 0.27439024390243905,
+      "listing_count": 39,
+      "primary_region": "Seawoods"
+    },
+    "Lakhani Empire Towers": {
+      "median_price_lakhs": 250.0,
+      "median_price_per_sqft": 0.1979122807017544,
+      "listing_count": 44,
+      "primary_region": "Thane West"
+    },
+    "Laxmi Avenue D Global City": {
+      "median_price_lakhs": 33.99,
+      "median_price_per_sqft": 0.043025316455696204,
+      "listing_count": 35,
+      "primary_region": "Virar"
+    },
+    "Leena Bhairav Residency": {
+      "median_price_lakhs": 116.0,
+      "median_price_per_sqft": 0.09712230215827339,
+      "listing_count": 43,
+      "primary_region": "Mira Road East"
+    },
+    "Lodha Amara Tower 26 27 28 30 34 35": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.1345667896898625,
+      "listing_count": 82,
+      "primary_region": "Thane West"
+    },
+    "Lodha Amara Tower 45": {
+      "median_price_lakhs": 95.0,
+      "median_price_per_sqft": 0.09947916666666667,
+      "listing_count": 50,
+      "primary_region": "Thane West"
+    },
+    "Lodha Amara Tower 46": {
+      "median_price_lakhs": 165.0,
+      "median_price_per_sqft": 0.103125,
+      "listing_count": 72,
+      "primary_region": "Thane West"
+    },
+    "Lodha Bel Air": {
+      "median_price_lakhs": 258.5,
+      "median_price_per_sqft": 0.2566046645314938,
+      "listing_count": 52,
+      "primary_region": "Jogeshwari West"
+    },
+    "Lodha Bellagio": {
+      "median_price_lakhs": 332.0,
+      "median_price_per_sqft": 0.2221010866456963,
+      "listing_count": 44,
+      "primary_region": "Powai"
+    },
+    "Lodha Casa Bella Gold": {
+      "median_price_lakhs": 54.0,
+      "median_price_per_sqft": 0.061387283236994224,
+      "listing_count": 87,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Casa Rio": {
+      "median_price_lakhs": 45.85,
+      "median_price_per_sqft": 0.05555555555555555,
+      "listing_count": 94,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Codename Crown Jewel": {
+      "median_price_lakhs": 101.0,
+      "median_price_per_sqft": 0.1315073529411765,
+      "listing_count": 200,
+      "primary_region": "Thane West"
+    },
+    "Lodha Codename Golden Dream": {
+      "median_price_lakhs": 28.5,
+      "median_price_per_sqft": 0.0868421052631579,
+      "listing_count": 38,
+      "primary_region": "Taloja"
+    },
+    "Lodha Codename Limited Edition": {
+      "median_price_lakhs": 230.0,
+      "median_price_per_sqft": 0.1871345029239766,
+      "listing_count": 121,
+      "primary_region": "Mulund East"
+    },
+    "Lodha Codename Premier": {
+      "median_price_lakhs": 57.995000000000005,
+      "median_price_per_sqft": 0.06325846971002011,
+      "listing_count": 274,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Codename Smart Buy": {
+      "median_price_lakhs": 51.75,
+      "median_price_per_sqft": 0.0929145728643216,
+      "listing_count": 45,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Crown": {
+      "median_price_lakhs": 63.28,
+      "median_price_per_sqft": 0.18611764705882353,
+      "listing_count": 94,
+      "primary_region": "Thane West"
+    },
+    "Lodha Dioro": {
+      "median_price_lakhs": 277.0,
+      "median_price_per_sqft": 0.22192827748383304,
+      "listing_count": 48,
+      "primary_region": "Wadala"
+    },
+    "Lodha Elisium": {
+      "median_price_lakhs": 291.5,
+      "median_price_per_sqft": 0.22663139329805998,
+      "listing_count": 36,
+      "primary_region": "Wadala"
+    },
+    "Lodha Kiara": {
+      "median_price_lakhs": 610.0,
+      "median_price_per_sqft": 0.4562043795620438,
+      "listing_count": 51,
+      "primary_region": "Worli"
+    },
+    "Lodha Lodha Codename Never Before": {
+      "median_price_lakhs": 300.0,
+      "median_price_per_sqft": 0.21209068010075566,
+      "listing_count": 63,
+      "primary_region": "Malad West"
+    },
+    "Lodha Luxuria": {
+      "median_price_lakhs": 135.0,
+      "median_price_per_sqft": 0.125,
+      "listing_count": 49,
+      "primary_region": "Thane West"
+    },
+    "Lodha Luxuria Priva": {
+      "median_price_lakhs": 125.0,
+      "median_price_per_sqft": 0.0992063492063492,
+      "listing_count": 40,
+      "primary_region": "Thane West"
+    },
+    "Lodha Majiwada Tower 1": {
+      "median_price_lakhs": 91.0,
+      "median_price_per_sqft": 0.11730769230769231,
+      "listing_count": 59,
+      "primary_region": "Thane West"
+    },
+    "Lodha Mira Road Project 1": {
+      "median_price_lakhs": 93.0,
+      "median_price_per_sqft": 0.1171875,
+      "listing_count": 35,
+      "primary_region": "Mira Road East"
+    },
+    "Lodha New Cuffe Parade": {
+      "median_price_lakhs": 288.0,
+      "median_price_per_sqft": 0.18981481481481483,
+      "listing_count": 39,
+      "primary_region": "Wadala"
+    },
+    "Lodha New Cuffe Parade Lodha Altia": {
+      "median_price_lakhs": 285.0,
+      "median_price_per_sqft": 0.31968810916179335,
+      "listing_count": 37,
+      "primary_region": "Wadala"
+    },
+    "Lodha Palava Golden Tomorrow": {
+      "median_price_lakhs": 38.5,
+      "median_price_per_sqft": 0.06029950083194676,
+      "listing_count": 46,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Palava Lakeshore Greens": {
+      "median_price_lakhs": 45.9,
+      "median_price_per_sqft": 0.05307692307692308,
+      "listing_count": 155,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Palava Lakeside A To H": {
+      "median_price_lakhs": 59.7,
+      "median_price_per_sqft": 0.05062046444121916,
+      "listing_count": 54,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Paradise": {
+      "median_price_lakhs": 98.0,
+      "median_price_per_sqft": 0.11362433862433863,
+      "listing_count": 72,
+      "primary_region": "Thane West"
+    },
+    "Lodha Splendora": {
+      "median_price_lakhs": 117.0,
+      "median_price_per_sqft": 0.12380952380952381,
+      "listing_count": 130,
+      "primary_region": "Thane West"
+    },
+    "Lodha Sterling": {
+      "median_price_lakhs": 215.0,
+      "median_price_per_sqft": 0.15910481807054633,
+      "listing_count": 180,
+      "primary_region": "Thane West"
+    },
+    "Lodha Sterling Tower G": {
+      "median_price_lakhs": 247.00000000000003,
+      "median_price_per_sqft": 0.24419634074365532,
+      "listing_count": 44,
+      "primary_region": "Thane West"
+    },
+    "Lodha The Lodha Palava Township": {
+      "median_price_lakhs": 60.595,
+      "median_price_per_sqft": 0.05411167144885952,
+      "listing_count": 54,
+      "primary_region": "Dombivali"
+    },
+    "Lodha Upper Thane": {
+      "median_price_lakhs": 70.0,
+      "median_price_per_sqft": 0.11431226765799256,
+      "listing_count": 141,
+      "primary_region": "Anjurdive"
+    },
+    "Lodha Woods": {
+      "median_price_lakhs": 214.0,
+      "median_price_per_sqft": 0.22444444444444445,
+      "listing_count": 96,
+      "primary_region": "Kandivali East"
+    },
+    "Lotus Lotus Sky Garden": {
+      "median_price_lakhs": 203.0,
+      "median_price_per_sqft": 0.2092092092092092,
+      "listing_count": 40,
+      "primary_region": "Kandivali West"
+    },
+    "MICL Aaradhya Highpark": {
+      "median_price_lakhs": 81.19,
+      "median_price_per_sqft": 0.11231301939058172,
+      "listing_count": 103,
+      "primary_region": "Bhayandar East"
+    },
+    "MICL Aradhya D And E Tower": {
+      "median_price_lakhs": 97.0,
+      "median_price_per_sqft": 0.12484076433121019,
+      "listing_count": 189,
+      "primary_region": "Bhayandar East"
+    },
+    "Mahaavir MAHAGHAR": {
+      "median_price_lakhs": 67.75,
+      "median_price_per_sqft": 0.11091854419410745,
+      "listing_count": 36,
+      "primary_region": "Taloja"
+    },
+    "Mahada New Tower": {
+      "median_price_lakhs": 51.125,
+      "median_price_per_sqft": 0.1275,
+      "listing_count": 64,
+      "primary_region": "Malad West"
+    },
+    "Mahaveer Solitaire Edge": {
+      "median_price_lakhs": 112.0,
+      "median_price_per_sqft": 0.22842639593908629,
+      "listing_count": 55,
+      "primary_region": "Kandivali East"
+    },
+    "Mahindra Alcove": {
+      "median_price_lakhs": 220.00000000000003,
+      "median_price_per_sqft": 0.24438573315719947,
+      "listing_count": 57,
+      "primary_region": "Andheri East"
+    },
+    "Mahindra Happinest Kalyan Project A": {
+      "median_price_lakhs": 42.33,
+      "median_price_per_sqft": 0.08228021978021978,
+      "listing_count": 36,
+      "primary_region": "Kalyan West"
+    },
+    "Mahindra Roots": {
+      "median_price_lakhs": 190.0,
+      "median_price_per_sqft": 0.16,
+      "listing_count": 35,
+      "primary_region": "Kandivali East"
+    },
+    "Mahindra Vicino A3A4": {
+      "median_price_lakhs": 222.00000000000003,
+      "median_price_per_sqft": 0.2193963443963444,
+      "listing_count": 50,
+      "primary_region": "Andheri East"
+    },
+    "Man Opus": {
+      "median_price_lakhs": 73.0,
+      "median_price_per_sqft": 0.09142857142857143,
+      "listing_count": 85,
+      "primary_region": "Mira Road East"
+    },
+    "Marathon Marathon Nexzone": {
+      "median_price_lakhs": 62.41,
+      "median_price_per_sqft": 0.10665929203539823,
+      "listing_count": 65,
+      "primary_region": "Panvel"
+    },
+    "Mayfair The View": {
+      "median_price_lakhs": 145.5,
+      "median_price_per_sqft": 0.17567595459236324,
+      "listing_count": 38,
+      "primary_region": "Vikhroli"
+    },
+    "Metro Paramount": {
+      "median_price_lakhs": 56.41,
+      "median_price_per_sqft": 0.06462962962962963,
+      "listing_count": 62,
+      "primary_region": "Shil Phata"
+    },
+    "Metropolis Bayside": {
+      "median_price_lakhs": 50.71,
+      "median_price_per_sqft": 0.1443125,
+      "listing_count": 39,
+      "primary_region": "Thane West"
+    },
+    "Mistry 9 PBR": {
+      "median_price_lakhs": 499.0,
+      "median_price_per_sqft": 0.35642857142857143,
+      "listing_count": 56,
+      "primary_region": "Nerul"
+    },
+    "Ms Shri Venkatesh Silver Spring": {
+      "median_price_lakhs": 88.805,
+      "median_price_per_sqft": 0.10718641658770414,
+      "listing_count": 44,
+      "primary_region": "Bhayandar West"
+    },
+    "N Rose Northern Heights": {
+      "median_price_lakhs": 199.0,
+      "median_price_per_sqft": 0.23508137432188064,
+      "listing_count": 47,
+      "primary_region": "Dahisar"
+    },
+    "NARANG REALTY And WADHWA GROUP Courtyard": {
+      "median_price_lakhs": 263.0,
+      "median_price_per_sqft": 0.17507575757575755,
+      "listing_count": 104,
+      "primary_region": "Thane West"
+    },
+    "Nahar Amrit Shakti": {
+      "median_price_lakhs": 192.0,
+      "median_price_per_sqft": 0.19741100323624594,
+      "listing_count": 37,
+      "primary_region": "Powai"
+    },
+    "Nandkumar Janki Legacy": {
+      "median_price_lakhs": 65.0,
+      "median_price_per_sqft": 0.08732394366197183,
+      "listing_count": 177,
+      "primary_region": "Mira Road East"
+    },
+    "Neelam Senroofs Phase III": {
+      "median_price_lakhs": 180.0,
+      "median_price_per_sqft": 0.20883054892601433,
+      "listing_count": 38,
+      "primary_region": "Nahur East"
+    },
+    "Neelam Solstice Phase I": {
+      "median_price_lakhs": 210.0,
+      "median_price_per_sqft": 0.19308796296296296,
+      "listing_count": 96,
+      "primary_region": "Ghatkopar East"
+    },
+    "Neelkanth Greens": {
+      "median_price_lakhs": 185.0,
+      "median_price_per_sqft": 0.12173913043478261,
+      "listing_count": 309,
+      "primary_region": "Thane West"
+    },
+    "Neelkanth Palms": {
+      "median_price_lakhs": 185.0,
+      "median_price_per_sqft": 0.12162162162162163,
+      "listing_count": 229,
+      "primary_region": "Thane West"
+    },
+    "Neelsidhi Amarante": {
+      "median_price_lakhs": 60.0,
+      "median_price_per_sqft": 0.076,
+      "listing_count": 35,
+      "primary_region": "Kalamboli"
+    },
+    "Neelyog Virat": {
+      "median_price_lakhs": 132.0,
+      "median_price_per_sqft": 0.16177918424753868,
+      "listing_count": 56,
+      "primary_region": "Malad East"
+    },
+    "Neminath Heights": {
+      "median_price_lakhs": 88.0,
+      "median_price_per_sqft": 0.08994082840236686,
+      "listing_count": 55,
+      "primary_region": "Mira Road East"
+    },
+    "Nisarg Greens": {
+      "median_price_lakhs": 45.0,
+      "median_price_per_sqft": 0.05259208523592085,
+      "listing_count": 54,
+      "primary_region": "Ambernath East"
+    },
+    "Nisarg Hyde Park": {
+      "median_price_lakhs": 110.0,
+      "median_price_per_sqft": 0.10074626865671642,
+      "listing_count": 46,
+      "primary_region": "Kharghar"
+    },
+    "Nrose Northern Hills": {
+      "median_price_lakhs": 147.0,
+      "median_price_per_sqft": 0.2247191011235955,
+      "listing_count": 79,
+      "primary_region": "Dahisar"
+    },
+    "Om Shree Tirupati Balaji Tirupati Pooja": {
+      "median_price_lakhs": 63.0,
+      "median_price_per_sqft": 0.09473684210526316,
+      "listing_count": 39,
+      "primary_region": "Bhayandar East"
+    },
+    "Omkar Alta Monte": {
+      "median_price_lakhs": 320.0,
+      "median_price_per_sqft": 0.21729323308270676,
+      "listing_count": 103,
+      "primary_region": "Malad East"
+    },
+    "Ornate Heights": {
+      "median_price_lakhs": 37.8,
+      "median_price_per_sqft": 0.07748427672955975,
+      "listing_count": 55,
+      "primary_region": "Vasai"
+    },
+    "Ornate Kallisto Phase II": {
+      "median_price_lakhs": 49.32,
+      "median_price_per_sqft": 0.09639908256880735,
+      "listing_count": 45,
+      "primary_region": "Bhiwandi"
+    },
+    "Other": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.13333333333333333,
+      "listing_count": 42730,
+      "primary_region": "Thane West"
+    },
+    "PNK Imperial Heights": {
+      "median_price_lakhs": 65.0,
+      "median_price_per_sqft": 0.08513513513513514,
+      "listing_count": 83,
+      "primary_region": "Mira Road East"
+    },
+    "PNK Space Tiara Hills Phase I Bldg No 3 5 And 2": {
+      "median_price_lakhs": 48.0,
+      "median_price_per_sqft": 0.07673160173160173,
+      "listing_count": 68,
+      "primary_region": "Mira Road East"
+    },
+    "Palkhi Sara": {
+      "median_price_lakhs": 108.5,
+      "median_price_per_sqft": 0.15,
+      "listing_count": 48,
+      "primary_region": "Kandivali East"
+    },
+    "Paradigm Antalya": {
+      "median_price_lakhs": 90.0,
+      "median_price_per_sqft": 0.181058495821727,
+      "listing_count": 95,
+      "primary_region": "Jogeshwari West"
+    },
+    "Paradise Sai Mannat": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.11219512195121951,
+      "listing_count": 49,
+      "primary_region": "Kharghar"
+    },
+    "Paradise Sai Suncity": {
+      "median_price_lakhs": 55.0,
+      "median_price_per_sqft": 0.08449720670391062,
+      "listing_count": 44,
+      "primary_region": "Taloja"
+    },
+    "Paradise Sai World City": {
+      "median_price_lakhs": 137.0,
+      "median_price_per_sqft": 0.1423642020267415,
+      "listing_count": 114,
+      "primary_region": "Panvel"
+    },
+    "Paradise Sai World City Panvel": {
+      "median_price_lakhs": 195.0,
+      "median_price_per_sqft": 0.19088414967243475,
+      "listing_count": 48,
+      "primary_region": "Panvel"
+    },
+    "Paradise Sai World Dreams Phase 1": {
+      "median_price_lakhs": 80.0,
+      "median_price_per_sqft": 0.075,
+      "listing_count": 81,
+      "primary_region": "Dombivali"
+    },
+    "Paradise Sai World Empire": {
+      "median_price_lakhs": 198.5,
+      "median_price_per_sqft": 0.11541850220264317,
+      "listing_count": 134,
+      "primary_region": "Kharghar"
+    },
+    "Paras EL Signora Building 3": {
+      "median_price_lakhs": 221.0,
+      "median_price_per_sqft": 0.2344244984160507,
+      "listing_count": 62,
+      "primary_region": "Andheri West"
+    },
+    "Parinee Essence": {
+      "median_price_lakhs": 97.36,
+      "median_price_per_sqft": 0.1581306017925736,
+      "listing_count": 66,
+      "primary_region": "Kandivali West"
+    },
+    "Piramal Mahalaxmi": {
+      "median_price_lakhs": 638.0,
+      "median_price_per_sqft": 0.4854709246245005,
+      "listing_count": 42,
+      "primary_region": "Mahalaxmi"
+    },
+    "Piramal Revanta": {
+      "median_price_lakhs": 221.5,
+      "median_price_per_sqft": 0.2111111111111111,
+      "listing_count": 114,
+      "primary_region": "Mulund West"
+    },
+    "Piramal Revanta Tower 1": {
+      "median_price_lakhs": 225.0,
+      "median_price_per_sqft": 0.19210526315789472,
+      "listing_count": 35,
+      "primary_region": "Mulund West"
+    },
+    "Piramal Vaikunth A Class Homes Series 2": {
+      "median_price_lakhs": 55.99,
+      "median_price_per_sqft": 0.1463134328358209,
+      "listing_count": 42,
+      "primary_region": "Thane West"
+    },
+    "Piramal Vaikunth Cluster 1": {
+      "median_price_lakhs": 159.0,
+      "median_price_per_sqft": 0.15604887686183405,
+      "listing_count": 50,
+      "primary_region": "Thane West"
+    },
+    "Piramal Vaikunth Cluster 2": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.1594643944004869,
+      "listing_count": 59,
+      "primary_region": "Thane West"
+    },
+    "Piramal Vaikunth Thane": {
+      "median_price_lakhs": 147.0,
+      "median_price_per_sqft": 0.17362637362637362,
+      "listing_count": 115,
+      "primary_region": "Thane West"
+    },
+    "Planet Highlands": {
+      "median_price_lakhs": 22.185000000000002,
+      "median_price_per_sqft": 0.03290647073324973,
+      "listing_count": 52,
+      "primary_region": "Neral"
+    },
+    "Platinum Life": {
+      "median_price_lakhs": 279.0,
+      "median_price_per_sqft": 0.34961154273029965,
+      "listing_count": 55,
+      "primary_region": "Andheri West"
+    },
+    "Pramanik Walchand Paradise": {
+      "median_price_lakhs": 95.0,
+      "median_price_per_sqft": 0.09229670329670331,
+      "listing_count": 48,
+      "primary_region": "Mira Road East"
+    },
+    "Prestige Bellanza Phase 2 Wing D E F At The Prestige City": {
+      "median_price_lakhs": 204.0,
+      "median_price_per_sqft": 0.13666666666666666,
+      "listing_count": 55,
+      "primary_region": "Mulund West"
+    },
+    "Prestige Jasdan Classic": {
+      "median_price_lakhs": 498.00000000000006,
+      "median_price_per_sqft": 0.4,
+      "listing_count": 49,
+      "primary_region": "Byculla"
+    },
+    "Prithvi Prithvi Pride Phase I": {
+      "median_price_lakhs": 76.0,
+      "median_price_per_sqft": 0.08748219655008704,
+      "listing_count": 84,
+      "primary_region": "Mira Road East"
+    },
+    "Puraniks Rumah Bali": {
+      "median_price_lakhs": 77.44,
+      "median_price_per_sqft": 0.15145454545454545,
+      "listing_count": 102,
+      "primary_region": "Thane West"
+    },
+    "RNA NG Eclat": {
+      "median_price_lakhs": 360.0,
+      "median_price_per_sqft": 0.2619047619047619,
+      "listing_count": 60,
+      "primary_region": "Andheri West"
+    },
+    "RNA NG N G Diamond Hill D Phase II": {
+      "median_price_lakhs": 66.0,
+      "median_price_per_sqft": 0.0863849765258216,
+      "listing_count": 85,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG N G Hill Crest": {
+      "median_price_lakhs": 70.0,
+      "median_price_per_sqft": 0.08478260869565217,
+      "listing_count": 71,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG N G Silver Spring Phase II": {
+      "median_price_lakhs": 75.5,
+      "median_price_per_sqft": 0.08591549295774648,
+      "listing_count": 45,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG N G Tivoli Phase I": {
+      "median_price_lakhs": 75.5,
+      "median_price_per_sqft": 0.08261904761904762,
+      "listing_count": 36,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG NG Diamond Hill B Phase I": {
+      "median_price_lakhs": 80.0,
+      "median_price_per_sqft": 0.08591549295774648,
+      "listing_count": 63,
+      "primary_region": "Bhayandar East"
+    },
+    "RNA NG Ocean Pearl": {
+      "median_price_lakhs": 62.15,
+      "median_price_per_sqft": 0.08421052631578947,
+      "listing_count": 151,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG RNA N G Silver Spring": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.08571428571428572,
+      "listing_count": 53,
+      "primary_region": "Mira Road East"
+    },
+    "RNA NG Royal Park": {
+      "median_price_lakhs": 170.0,
+      "median_price_per_sqft": 0.12285714285714286,
+      "listing_count": 45,
+      "primary_region": "Kanjurmarg"
+    },
+    "Radhe Krishna Heights": {
+      "median_price_lakhs": 23.5,
+      "median_price_per_sqft": 0.04461538461538461,
+      "listing_count": 75,
+      "primary_region": "Karjat"
+    },
+    "Radheya Sai Enclave": {
+      "median_price_lakhs": 38.0,
+      "median_price_per_sqft": 0.0501231527093596,
+      "listing_count": 42,
+      "primary_region": "Naigaon East"
+    },
+    "Raheja Solaris": {
+      "median_price_lakhs": 135.0,
+      "median_price_per_sqft": 0.19607843137254902,
+      "listing_count": 39,
+      "primary_region": "Sanpada"
+    },
+    "Raj 127 Raj Homes A Wing": {
+      "median_price_lakhs": 70.45,
+      "median_price_per_sqft": 0.09468085106382979,
+      "listing_count": 51,
+      "primary_region": "Mira Road East"
+    },
+    "Raj Akshay": {
+      "median_price_lakhs": 70.46000000000001,
+      "median_price_per_sqft": 0.08994529638597434,
+      "listing_count": 252,
+      "primary_region": "Mira Road East"
+    },
+    "Raj Florenza": {
+      "median_price_lakhs": 74.69,
+      "median_price_per_sqft": 0.09581395348837209,
+      "listing_count": 115,
+      "primary_region": "Mira Road East"
+    },
+    "Raj Heritage": {
+      "median_price_lakhs": 83.75,
+      "median_price_per_sqft": 0.08922312556458897,
+      "listing_count": 178,
+      "primary_region": "Mira Road East"
+    },
+    "Raj Heritage 2": {
+      "median_price_lakhs": 94.49000000000001,
+      "median_price_per_sqft": 0.10179487179487179,
+      "listing_count": 140,
+      "primary_region": "Mira Road East"
+    },
+    "Raj Rudraksha": {
+      "median_price_lakhs": 99.0,
+      "median_price_per_sqft": 0.12472970067906777,
+      "listing_count": 82,
+      "primary_region": "Dahisar"
+    },
+    "Rajesh White City": {
+      "median_price_lakhs": 210.0,
+      "median_price_per_sqft": 0.2052139037433155,
+      "listing_count": 40,
+      "primary_region": "Kandivali East"
+    },
+    "Rajsanket Rajinfinia Phase II Wing A Wing B Wing C": {
+      "median_price_lakhs": 228.5,
+      "median_price_per_sqft": 0.2687140115163148,
+      "listing_count": 38,
+      "primary_region": "Malad West"
+    },
+    "Ramji Hari Minat Naagraj Classic": {
+      "median_price_lakhs": 33.01,
+      "median_price_per_sqft": 0.056504065040650406,
+      "listing_count": 63,
+      "primary_region": "Ulwe"
+    },
+    "Rassaz Greens": {
+      "median_price_lakhs": 90.25,
+      "median_price_per_sqft": 0.09084745762711864,
+      "listing_count": 99,
+      "primary_region": "Mira Road East"
+    },
+    "Raunak City": {
+      "median_price_lakhs": 39.0,
+      "median_price_per_sqft": 0.05930807248764415,
+      "listing_count": 63,
+      "primary_region": "Kalyan West"
+    },
+    "Raunak Laxmi Narayan Residency": {
+      "median_price_lakhs": 142.0,
+      "median_price_per_sqft": 0.13333333333333333,
+      "listing_count": 173,
+      "primary_region": "Thane West"
+    },
+    "Raymond Raymond Realty TenX Habitat": {
+      "median_price_lakhs": 142.0,
+      "median_price_per_sqft": 0.234375,
+      "listing_count": 55,
+      "primary_region": "Thane West"
+    },
+    "Regency Anantam": {
+      "median_price_lakhs": 59.25,
+      "median_price_per_sqft": 0.06550829127613554,
+      "listing_count": 54,
+      "primary_region": "Dombivali"
+    },
+    "Reputed Builder Adani Western Heights": {
+      "median_price_lakhs": 475.0,
+      "median_price_per_sqft": 0.3333333333333333,
+      "listing_count": 39,
+      "primary_region": "Andheri West"
+    },
+    "Reputed Builder Ravi Estate": {
+      "median_price_lakhs": 125.0,
+      "median_price_per_sqft": 0.11737089201877934,
+      "listing_count": 46,
+      "primary_region": "Thane West"
+    },
+    "Reputed Builder Samriddhi": {
+      "median_price_lakhs": 115.0,
+      "median_price_per_sqft": 0.10786516853932585,
+      "listing_count": 84,
+      "primary_region": "Mira Road East"
+    },
+    "Reputed Builder Soham Gardens": {
+      "median_price_lakhs": 262.5,
+      "median_price_per_sqft": 0.13613251155624037,
+      "listing_count": 42,
+      "primary_region": "Thane West"
+    },
+    "Reputed Builder Vasant Valley": {
+      "median_price_lakhs": 93.0,
+      "median_price_per_sqft": 0.07692307692307693,
+      "listing_count": 35,
+      "primary_region": "Kalyan West"
+    },
+    "Reputed Builder Wild Wood Park 2": {
+      "median_price_lakhs": 20.0,
+      "median_price_per_sqft": 0.030721966205837174,
+      "listing_count": 297,
+      "primary_region": "Andheri West"
+    },
+    "Risland Risland The Icon": {
+      "median_price_lakhs": 110.0,
+      "median_price_per_sqft": 0.18235294117647058,
+      "listing_count": 107,
+      "primary_region": "Thane West"
+    },
+    "Roha Realty Roha Vatika": {
+      "median_price_lakhs": 100.25,
+      "median_price_per_sqft": 0.22043010752688172,
+      "listing_count": 84,
+      "primary_region": "Kurla"
+    },
+    "Romell Allure": {
+      "median_price_lakhs": 99.0,
+      "median_price_per_sqft": 0.17875,
+      "listing_count": 73,
+      "primary_region": "Borivali East"
+    },
+    "Runwal Avenue": {
+      "median_price_lakhs": 140.0,
+      "median_price_per_sqft": 0.19085113808865023,
+      "listing_count": 80,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Avenue Wing J": {
+      "median_price_lakhs": 112.0,
+      "median_price_per_sqft": 0.15639097744360902,
+      "listing_count": 61,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Bliss": {
+      "median_price_lakhs": 193.0,
+      "median_price_per_sqft": 0.24843161856963614,
+      "listing_count": 233,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Bliss Wing D": {
+      "median_price_lakhs": 237.0,
+      "median_price_per_sqft": 0.15714285714285714,
+      "listing_count": 43,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Codename Enchanted": {
+      "median_price_lakhs": 87.0,
+      "median_price_per_sqft": 0.17125984251968504,
+      "listing_count": 76,
+      "primary_region": "Thane West"
+    },
+    "Runwal Elegante": {
+      "median_price_lakhs": 580.0,
+      "median_price_per_sqft": 0.23607892420801002,
+      "listing_count": 74,
+      "primary_region": "Andheri West"
+    },
+    "Runwal Forest Tower 1 To 4": {
+      "median_price_lakhs": 127.5,
+      "median_price_per_sqft": 0.16407263294422827,
+      "listing_count": 80,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Forest Tower 5 To 8": {
+      "median_price_lakhs": 169.5,
+      "median_price_per_sqft": 0.16515677966101694,
+      "listing_count": 68,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Garden City": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.11714285714285715,
+      "listing_count": 51,
+      "primary_region": "Thane West"
+    },
+    "Runwal Garden City Dahlia": {
+      "median_price_lakhs": 175.0,
+      "median_price_per_sqft": 0.10443864229765012,
+      "listing_count": 230,
+      "primary_region": "Thane West"
+    },
+    "Runwal Gardens": {
+      "median_price_lakhs": 56.5,
+      "median_price_per_sqft": 0.1006036217303823,
+      "listing_count": 389,
+      "primary_region": "Dombivali"
+    },
+    "Runwal Gardens Phase 2 Bldg No 18 To 23": {
+      "median_price_lakhs": 55.67,
+      "median_price_per_sqft": 0.09228832951945079,
+      "listing_count": 38,
+      "primary_region": "Dombivali"
+    },
+    "Runwal Gardens Phase 3 Bldg No 27 28": {
+      "median_price_lakhs": 51.99,
+      "median_price_per_sqft": 0.0600093023255814,
+      "listing_count": 48,
+      "primary_region": "Dombivali"
+    },
+    "Runwal Greens": {
+      "median_price_lakhs": 230.0,
+      "median_price_per_sqft": 0.16317092758666846,
+      "listing_count": 90,
+      "primary_region": "Mulund West"
+    },
+    "Runwal Lily at Runwal Forest": {
+      "median_price_lakhs": 166.5,
+      "median_price_per_sqft": 0.21929756968031716,
+      "listing_count": 94,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal My City": {
+      "median_price_lakhs": 43.1,
+      "median_price_per_sqft": 0.05819538670284939,
+      "listing_count": 164,
+      "primary_region": "Dombivali"
+    },
+    "Runwal Pinnacle": {
+      "median_price_lakhs": 160.0,
+      "median_price_per_sqft": 0.17333333333333334,
+      "listing_count": 119,
+      "primary_region": "Mulund West"
+    },
+    "Runwal Runwal Forests Tower 9 To 11": {
+      "median_price_lakhs": 162.5,
+      "median_price_per_sqft": 0.24946236559139784,
+      "listing_count": 66,
+      "primary_region": "Kanjurmarg"
+    },
+    "Runwal Sanctuary": {
+      "median_price_lakhs": 200.0,
+      "median_price_per_sqft": 0.18115942028985507,
+      "listing_count": 47,
+      "primary_region": "Mulund West"
+    },
+    "Runwal The Orchard Residency": {
+      "median_price_lakhs": 230.0,
+      "median_price_per_sqft": 0.16666666666666669,
+      "listing_count": 36,
+      "primary_region": "Ghatkopar West"
+    },
+    "Ruparel Mumbai XL": {
+      "median_price_lakhs": 134.0,
+      "median_price_per_sqft": 0.17926829268292682,
+      "listing_count": 35,
+      "primary_region": "Kandivali West"
+    },
+    "Ruparel Optima Ph 1": {
+      "median_price_lakhs": 72.485,
+      "median_price_per_sqft": 0.14,
+      "listing_count": 36,
+      "primary_region": "Kandivali West"
+    },
+    "Rustomjee Bella": {
+      "median_price_lakhs": 108.0,
+      "median_price_per_sqft": 0.1876750700280112,
+      "listing_count": 43,
+      "primary_region": "Bhandup West"
+    },
+    "Rustomjee Global City": {
+      "median_price_lakhs": 53.99,
+      "median_price_per_sqft": 0.049081818181818185,
+      "listing_count": 58,
+      "primary_region": "Virar"
+    },
+    "Rustomjee Summit": {
+      "median_price_lakhs": 279.0,
+      "median_price_per_sqft": 0.27927927927927926,
+      "listing_count": 63,
+      "primary_region": "Borivali East"
+    },
+    "Rustomjee Uptown Urbania": {
+      "median_price_lakhs": 132.0,
+      "median_price_per_sqft": 0.15851851851851853,
+      "listing_count": 73,
+      "primary_region": "Thane West"
+    },
+    "Rustomjee Urbania": {
+      "median_price_lakhs": 145.0,
+      "median_price_per_sqft": 0.182328190743338,
+      "listing_count": 156,
+      "primary_region": "Thane West"
+    },
+    "Rustomjee Urbania Azziano": {
+      "median_price_lakhs": 150.0,
+      "median_price_per_sqft": 0.1337579617834395,
+      "listing_count": 39,
+      "primary_region": "Thane West"
+    },
+    "SD Epsilon": {
+      "median_price_lakhs": 235.0,
+      "median_price_per_sqft": 0.228,
+      "listing_count": 43,
+      "primary_region": "Kandivali East"
+    },
+    "SD Siennaa At Sarova": {
+      "median_price_lakhs": 181.5,
+      "median_price_per_sqft": 0.2427182336598918,
+      "listing_count": 44,
+      "primary_region": "Kandivali East"
+    },
+    "SK Imperial Heights": {
+      "median_price_lakhs": 77.0,
+      "median_price_per_sqft": 0.09444444444444444,
+      "listing_count": 91,
+      "primary_region": "Mira Road East"
+    },
+    "SKD Pinnacolo And Pinnacolo NX": {
+      "median_price_lakhs": 89.0,
+      "median_price_per_sqft": 0.09301538461538461,
+      "listing_count": 135,
+      "primary_region": "Mira Road East"
+    },
+    "SKD Pinnacolo NX": {
+      "median_price_lakhs": 71.0,
+      "median_price_per_sqft": 0.09078947368421053,
+      "listing_count": 145,
+      "primary_region": "Mira Road East"
+    },
+    "Sahakar Premier": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.08551724137931034,
+      "listing_count": 123,
+      "primary_region": "Mira Road East"
+    },
+    "Sai Balaji Estate Phase 2": {
+      "median_price_lakhs": 28.494999999999997,
+      "median_price_per_sqft": 0.05289915966386555,
+      "listing_count": 44,
+      "primary_region": "Dombivali"
+    },
+    "Salasar Exotica I": {
+      "median_price_lakhs": 64.25,
+      "median_price_per_sqft": 0.08666666666666667,
+      "listing_count": 95,
+      "primary_region": "Mira Road East"
+    },
+    "Sanghvi Ecocity": {
+      "median_price_lakhs": 64.75,
+      "median_price_per_sqft": 0.08720379146919431,
+      "listing_count": 114,
+      "primary_region": "Mira Road East"
+    },
+    "Sanghvi Ecocity Phase 3": {
+      "median_price_lakhs": 65.0,
+      "median_price_per_sqft": 0.09110638297872341,
+      "listing_count": 134,
+      "primary_region": "Mira Road East"
+    },
+    "Sanghvi S3 Skyrise": {
+      "median_price_lakhs": 69.0,
+      "median_price_per_sqft": 0.090935960591133,
+      "listing_count": 103,
+      "primary_region": "Mira Road East"
+    },
+    "Sanghvi Sanghvi S3 Ecocity Woods": {
+      "median_price_lakhs": 66.0,
+      "median_price_per_sqft": 0.0885480093676815,
+      "listing_count": 78,
+      "primary_region": "Mira Road East"
+    },
+    "Satyam Peace Of Mind": {
+      "median_price_lakhs": 87.0,
+      "median_price_per_sqft": 0.1,
+      "listing_count": 40,
+      "primary_region": "Kharghar"
+    },
+    "Sethia Marine View": {
+      "median_price_lakhs": 89.0,
+      "median_price_per_sqft": 0.18654434250764526,
+      "listing_count": 35,
+      "primary_region": "Borivali West"
+    },
+    "Sethia Pride Wing A": {
+      "median_price_lakhs": 100.0,
+      "median_price_per_sqft": 0.2153846153846154,
+      "listing_count": 81,
+      "primary_region": "Kandivali East"
+    },
+    "Seven Eleven Apna Ghar Phase II Plot A": {
+      "median_price_lakhs": 37.68,
+      "median_price_per_sqft": 0.08741692651737062,
+      "listing_count": 48,
+      "primary_region": "Mira Road East"
+    },
+    "Seven Eleven Apna Ghar Phase III": {
+      "median_price_lakhs": 37.6,
+      "median_price_per_sqft": 0.08,
+      "listing_count": 70,
+      "primary_region": "Mira Road East"
+    },
+    "Shapoorji Pallonji BKC 28": {
+      "median_price_lakhs": 216.0,
+      "median_price_per_sqft": 0.24719101123595508,
+      "listing_count": 35,
+      "primary_region": "Bandra East"
+    },
+    "Shapoorji Pallonji Joyville Virar": {
+      "median_price_lakhs": 52.8,
+      "median_price_per_sqft": 0.08,
+      "listing_count": 41,
+      "primary_region": "Virar"
+    },
+    "Shapoorji Pallonji Northern Lights": {
+      "median_price_lakhs": 148.0,
+      "median_price_per_sqft": 0.16296296296296298,
+      "listing_count": 115,
+      "primary_region": "Thane West"
+    },
+    "Shapoorji Pallonji Sarova": {
+      "median_price_lakhs": 135.0,
+      "median_price_per_sqft": 0.15,
+      "listing_count": 55,
+      "primary_region": "Kandivali East"
+    },
+    "Shapoorji Pallonji Vicinia": {
+      "median_price_lakhs": 255.0,
+      "median_price_per_sqft": 0.26463963963963966,
+      "listing_count": 74,
+      "primary_region": "Powai"
+    },
+    "Sheth Auris Ilaria": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.2381596752368065,
+      "listing_count": 57,
+      "primary_region": "Malad West"
+    },
+    "Sheth Auris Serenity Tower 2": {
+      "median_price_lakhs": 286.0,
+      "median_price_per_sqft": 0.23995052566481137,
+      "listing_count": 41,
+      "primary_region": "Malad West"
+    },
+    "Sheth Avalon": {
+      "median_price_lakhs": 450.0,
+      "median_price_per_sqft": 0.16666666666666666,
+      "listing_count": 516,
+      "primary_region": "Thane West"
+    },
+    "Sheth Montana": {
+      "median_price_lakhs": 210.0,
+      "median_price_per_sqft": 0.16666666666666669,
+      "listing_count": 116,
+      "primary_region": "Mulund West"
+    },
+    "Sheth Vasant Blossom": {
+      "median_price_lakhs": 189.0,
+      "median_price_per_sqft": 0.2437641723356009,
+      "listing_count": 64,
+      "primary_region": "Andheri East"
+    },
+    "Sheth Vasant Lawns": {
+      "median_price_lakhs": 260.0,
+      "median_price_per_sqft": 0.16385135135135134,
+      "listing_count": 59,
+      "primary_region": "Thane West"
+    },
+    "Sheth Vasant Oasis": {
+      "median_price_lakhs": 220.00000000000003,
+      "median_price_per_sqft": 0.2076923076923077,
+      "listing_count": 105,
+      "primary_region": "Andheri East"
+    },
+    "Shiv Shakti Builders Tower 28": {
+      "median_price_lakhs": 125.5,
+      "median_price_per_sqft": 0.19903691813804172,
+      "listing_count": 92,
+      "primary_region": "Malad East"
+    },
+    "Shree Adinath Symphony": {
+      "median_price_lakhs": 18.9,
+      "median_price_per_sqft": 0.030292682926829267,
+      "listing_count": 85,
+      "primary_region": "Boisar"
+    },
+    "Shree Laxmi Kailash Homes": {
+      "median_price_lakhs": 46.0,
+      "median_price_per_sqft": 0.06699147381242387,
+      "listing_count": 41,
+      "primary_region": "Kalyan West"
+    },
+    "Shree Naman Premier": {
+      "median_price_lakhs": 130.0,
+      "median_price_per_sqft": 0.23275862068965517,
+      "listing_count": 61,
+      "primary_region": "Andheri East"
+    },
+    "Shree Nidhi Heights B Wing": {
+      "median_price_lakhs": 73.64,
+      "median_price_per_sqft": 0.08278243549352983,
+      "listing_count": 46,
+      "primary_region": "Mira Road East"
+    },
+    "Shree Ostwal Horizon": {
+      "median_price_lakhs": 44.2,
+      "median_price_per_sqft": 0.07366666666666667,
+      "listing_count": 65,
+      "primary_region": "Mira Road East"
+    },
+    "Shree Ramdev Heights": {
+      "median_price_lakhs": 64.775,
+      "median_price_per_sqft": 0.08631907308377897,
+      "listing_count": 160,
+      "primary_region": "Mira Road East"
+    },
+    "Shree Sai Shweta Heights": {
+      "median_price_lakhs": 68.0,
+      "median_price_per_sqft": 0.08949425287356322,
+      "listing_count": 70,
+      "primary_region": "Mira Road East"
+    },
+    "Shree Shakun Greens": {
+      "median_price_lakhs": 39.0,
+      "median_price_per_sqft": 0.042846938775510206,
+      "listing_count": 43,
+      "primary_region": "Virar"
+    },
+    "Shree Tirupati Siddeshwar Gardens": {
+      "median_price_lakhs": 95.0,
+      "median_price_per_sqft": 0.11133603238866396,
+      "listing_count": 35,
+      "primary_region": "Thane West"
+    },
+    "Shreeji Sharan Daivi Eterneety": {
+      "median_price_lakhs": 290.0,
+      "median_price_per_sqft": 0.26956025128498,
+      "listing_count": 59,
+      "primary_region": "Borivali West"
+    },
+    "Siddha Seabrook Apartment": {
+      "median_price_lakhs": 218.00000000000003,
+      "median_price_per_sqft": 0.19978969505783387,
+      "listing_count": 48,
+      "primary_region": "Kandivali West"
+    },
+    "Siddha Sky Phase 1": {
+      "median_price_lakhs": 145.0,
+      "median_price_per_sqft": 0.225,
+      "listing_count": 42,
+      "primary_region": "Sion"
+    },
+    "Siddharth Riverwood Park": {
+      "median_price_lakhs": 43.0,
+      "median_price_per_sqft": 0.05549738219895288,
+      "listing_count": 35,
+      "primary_region": "Dombivali"
+    },
+    "Siddhi Highland Park": {
+      "median_price_lakhs": 78.0,
+      "median_price_per_sqft": 0.11667170953101362,
+      "listing_count": 61,
+      "primary_region": "Thane West"
+    },
+    "Soham Crystal Spires": {
+      "median_price_lakhs": 254.5,
+      "median_price_per_sqft": 0.17522658610271905,
+      "listing_count": 36,
+      "primary_region": "Thane West"
+    },
+    "Sonam Indradhanush": {
+      "median_price_lakhs": 98.0,
+      "median_price_per_sqft": 0.10309278350515463,
+      "listing_count": 47,
+      "primary_region": "Mira Road East"
+    },
+    "Sonam Indraprasth": {
+      "median_price_lakhs": 136.0,
+      "median_price_per_sqft": 0.12569832402234637,
+      "listing_count": 47,
+      "primary_region": "Mira Road East"
+    },
+    "South Field Gravity": {
+      "median_price_lakhs": 61.0,
+      "median_price_per_sqft": 0.12,
+      "listing_count": 102,
+      "primary_region": "Bhandup East"
+    },
+    "Space Residence II Building No 4 B": {
+      "median_price_lakhs": 84.96,
+      "median_price_per_sqft": 0.08666666666666667,
+      "listing_count": 81,
+      "primary_region": "Mira Road East"
+    },
+    "Space Residency": {
+      "median_price_lakhs": 83.0,
+      "median_price_per_sqft": 0.0992838141025641,
+      "listing_count": 36,
+      "primary_region": "Mira Road East"
+    },
+    "Strawberry Onyx": {
+      "median_price_lakhs": 61.5,
+      "median_price_per_sqft": 0.08531468531468532,
+      "listing_count": 97,
+      "primary_region": "Mira Road East"
+    },
+    "Strawberry The Address": {
+      "median_price_lakhs": 84.0,
+      "median_price_per_sqft": 0.0921875,
+      "listing_count": 85,
+      "primary_region": "Mira Road East"
+    },
+    "Sunteck City 4th Avenue": {
+      "median_price_lakhs": 217.5,
+      "median_price_per_sqft": 0.21928327645051193,
+      "listing_count": 42,
+      "primary_region": "Goregaon West"
+    },
+    "Sunteck City Avenue 1": {
+      "median_price_lakhs": 280.0,
+      "median_price_per_sqft": 0.2375,
+      "listing_count": 49,
+      "primary_region": "Goregaon West"
+    },
+    "Sunteck City Avenue 2": {
+      "median_price_lakhs": 220.00000000000003,
+      "median_price_per_sqft": 0.23426573426573427,
+      "listing_count": 39,
+      "primary_region": "Goregaon West"
+    },
+    "Sunteck Maxx World": {
+      "median_price_lakhs": 45.67,
+      "median_price_per_sqft": 0.0758988015978695,
+      "listing_count": 75,
+      "primary_region": "Naigaon East"
+    },
+    "Sunteck One World": {
+      "median_price_lakhs": 38.0,
+      "median_price_per_sqft": 0.09108527131782945,
+      "listing_count": 69,
+      "primary_region": "Naigaon East"
+    },
+    "Sunteck West World": {
+      "median_price_lakhs": 41.25,
+      "median_price_per_sqft": 0.07024590163934427,
+      "listing_count": 56,
+      "primary_region": "Naigaon East"
+    },
+    "Swaminarayan City Phase 1A": {
+      "median_price_lakhs": 53.07,
+      "median_price_per_sqft": 0.09090909090909091,
+      "listing_count": 76,
+      "primary_region": "Dombivali"
+    },
+    "T Bhimjyani The Verraton": {
+      "median_price_lakhs": 280.0,
+      "median_price_per_sqft": 0.1358974358974359,
+      "listing_count": 499,
+      "primary_region": "Thane West"
+    },
+    "Tanvi Eminence I": {
+      "median_price_lakhs": 73.9,
+      "median_price_per_sqft": 0.0831081081081081,
+      "listing_count": 37,
+      "primary_region": "Mira Road East"
+    },
+    "Tanvi Eminence Phase 2": {
+      "median_price_lakhs": 86.0,
+      "median_price_per_sqft": 0.08885714285714286,
+      "listing_count": 35,
+      "primary_region": "Mira Road East"
+    },
+    "Tata Amantra Phase 2": {
+      "median_price_lakhs": 82.75,
+      "median_price_per_sqft": 0.08096501809408926,
+      "listing_count": 76,
+      "primary_region": "Bhiwandi"
+    },
+    "Tata Serein Phase 1": {
+      "median_price_lakhs": 178.5,
+      "median_price_per_sqft": 0.18534267386900743,
+      "listing_count": 76,
+      "primary_region": "Thane West"
+    },
+    "Techno Vision Vivanta Marvel": {
+      "median_price_lakhs": 67.0,
+      "median_price_per_sqft": 0.09004329004329004,
+      "listing_count": 115,
+      "primary_region": "Mira Road East"
+    },
+    "Tharwani Meghna Montana": {
+      "median_price_lakhs": 47.45,
+      "median_price_per_sqft": 0.04735150925024343,
+      "listing_count": 35,
+      "primary_region": "Ambernath West"
+    },
+    "Tharwani Rosalie": {
+      "median_price_lakhs": 75.0,
+      "median_price_per_sqft": 0.07104795737122557,
+      "listing_count": 37,
+      "primary_region": "Kalyan West"
+    },
+    "Today Oxyfresh Homes": {
+      "median_price_lakhs": 79.0,
+      "median_price_per_sqft": 0.09473707664884135,
+      "listing_count": 46,
+      "primary_region": "Kharghar"
+    },
+    "Transcon Triumph": {
+      "median_price_lakhs": 230.0,
+      "median_price_per_sqft": 0.31971995332555425,
+      "listing_count": 43,
+      "primary_region": "Andheri West"
+    },
+    "Tridhaatu Aum": {
+      "median_price_lakhs": 270.0,
+      "median_price_per_sqft": 0.26931818181818185,
+      "listing_count": 110,
+      "primary_region": "Chembur"
+    },
+    "Triumph Omkareshwar": {
+      "median_price_lakhs": 122.5,
+      "median_price_per_sqft": 0.24256768165700457,
+      "listing_count": 40,
+      "primary_region": "Borivali East"
+    },
+    "UK Iridium": {
+      "median_price_lakhs": 87.19,
+      "median_price_per_sqft": 0.16122448979591836,
+      "listing_count": 129,
+      "primary_region": "Kandivali East"
+    },
+    "Umiya Oasis": {
+      "median_price_lakhs": 80.0,
+      "median_price_per_sqft": 0.08507144140905823,
+      "listing_count": 236,
+      "primary_region": "Mira Road East"
+    },
+    "Unimont Aurum": {
+      "median_price_lakhs": 22.0,
+      "median_price_per_sqft": 0.04285714285714286,
+      "listing_count": 63,
+      "primary_region": "Karjat"
+    },
+    "Unique Ivana": {
+      "median_price_lakhs": 65.5,
+      "median_price_per_sqft": 0.08666666666666667,
+      "listing_count": 169,
+      "primary_region": "Mira Road East"
+    },
+    "Unique The Empress": {
+      "median_price_lakhs": 90.49,
+      "median_price_per_sqft": 0.09575386669633915,
+      "listing_count": 40,
+      "primary_region": "Mira Road East"
+    },
+    "Usha Radhe Krishna Park": {
+      "median_price_lakhs": 23.8,
+      "median_price_per_sqft": 0.046366421568627456,
+      "listing_count": 82,
+      "primary_region": "Karjat"
+    },
+    "Vaibhavlaxmi Royal Stone": {
+      "median_price_lakhs": 100.0,
+      "median_price_per_sqft": 0.19112884570899838,
+      "listing_count": 36,
+      "primary_region": "Vikhroli"
+    },
+    "Vaidehi Raghav Paradise": {
+      "median_price_lakhs": 121.0,
+      "median_price_per_sqft": 0.259391771019678,
+      "listing_count": 41,
+      "primary_region": "Borivali East"
+    },
+    "Valencia And Mishal One Marina": {
+      "median_price_lakhs": 600.0,
+      "median_price_per_sqft": 0.43938815300194967,
+      "listing_count": 40,
+      "primary_region": "Other"
+    },
+    "Vardhman Grandeur": {
+      "median_price_lakhs": 186.5,
+      "median_price_per_sqft": 0.20673076923076922,
+      "listing_count": 36,
+      "primary_region": "Andheri West"
+    },
+    "Vasant Vasant Vihar": {
+      "median_price_lakhs": 175.0,
+      "median_price_per_sqft": 0.12258064516129032,
+      "listing_count": 291,
+      "primary_region": "Thane West"
+    },
+    "Venus Skky City Phase I": {
+      "median_price_lakhs": 45.144999999999996,
+      "median_price_per_sqft": 0.05769444444444445,
+      "listing_count": 42,
+      "primary_region": "Dombivali"
+    },
+    "Vihang Hills": {
+      "median_price_lakhs": 56.25,
+      "median_price_per_sqft": 0.0975,
+      "listing_count": 47,
+      "primary_region": "Thane West"
+    },
+    "Vihang Valley": {
+      "median_price_lakhs": 51.0,
+      "median_price_per_sqft": 0.08137254901960785,
+      "listing_count": 35,
+      "primary_region": "Thane West"
+    },
+    "Vijay Orovia Phase 1": {
+      "median_price_lakhs": 104.0,
+      "median_price_per_sqft": 0.13436363636363635,
+      "listing_count": 48,
+      "primary_region": "Thane West"
+    },
+    "Vishesh Balaji Symphony": {
+      "median_price_lakhs": 82.0,
+      "median_price_per_sqft": 0.08159203980099503,
+      "listing_count": 55,
+      "primary_region": "Panvel"
+    },
+    "Wadhwa Atmosphere O2": {
+      "median_price_lakhs": 181.0,
+      "median_price_per_sqft": 0.2490272373540856,
+      "listing_count": 141,
+      "primary_region": "Mulund West"
+    },
+    "Wadhwa Atmosphere Phase 1": {
+      "median_price_lakhs": 203.0,
+      "median_price_per_sqft": 0.20833333333333334,
+      "listing_count": 125,
+      "primary_region": "Mulund West"
+    },
+    "Wadhwa Daisy Gardens": {
+      "median_price_lakhs": 32.0,
+      "median_price_per_sqft": 0.05300632911392405,
+      "listing_count": 39,
+      "primary_region": "Ambernath West"
+    },
+    "Wadhwa TW Gardens": {
+      "median_price_lakhs": 180.0,
+      "median_price_per_sqft": 0.18137254901960784,
+      "listing_count": 51,
+      "primary_region": "Kandivali East"
+    },
+    "Wadhwa Wadhwa Courtyard": {
+      "median_price_lakhs": 315.0,
+      "median_price_per_sqft": 0.1511627906976744,
+      "listing_count": 53,
+      "primary_region": "Thane West"
+    },
+    "Welcome C G Park": {
+      "median_price_lakhs": 21.47,
+      "median_price_per_sqft": 0.038,
+      "listing_count": 90,
+      "primary_region": "Bhiwandi"
+    },
+    "Yogsiddhi Sumukh Hills": {
+      "median_price_lakhs": 105.0,
+      "median_price_per_sqft": 0.19090909090909092,
+      "listing_count": 53,
+      "primary_region": "Kandivali East"
+    }
+  },
+  "locality_to_region": {
+    "A And O F Residences": "Malad East",
+    "A H A H Sapphire": "Mira Road East",
+    "ACME Eucalyptia": "Thane West",
+    "ACME Oasis": "Kandivali East",
+    "ACME Ozone": "Thane West",
+    "ACME Ozone Phase 2": "Thane West",
+    "AVA Guru Dwarka": "Dahisar",
+    "Aadi Allure Wings A To E": "Kanjurmarg",
+    "Adhiraj Capital City": "Kharghar",
+    "Adhiraj Mainland": "Kharghar",
+    "Adityaraj Avenue": "Vikhroli",
+    "Adityaraj Breeze": "Vikhroli",
+    "Agarwal Lifestyle": "Virar",
+    "Agarwal Paramount": "Virar",
+    "Ahuja Linkpark": "Malad West",
+    "Ajmera Bhakti Park": "Wadala",
+    "Ajmera One Kalyan": "Kalyan West",
+    "Amar Vinay Heritage": "Mira Road East",
+    "Amisha Empire Phase I": "Mira Road East",
+    "Anant Tara": "Kandivali West",
+    "Arihant Advika": "Vashi",
+    "Arihant Clan Aalishan Phase 1": "Kharghar",
+    "Ariisto Bellanza Phase 1 Wing A B C At The Prestige City": "Mulund West",
+    "Arkade Art": "Mira Road East",
+    "Arkade Aspire": "Goregaon East",
+    "Arkade Earth": "Kanjurmarg",
+    "Ashar Edge": "Thane West",
+    "Ashish Samriddhi": "Mira Road East",
+    "Avant Hillway": "Goregaon East",
+    "BG Shirke Parijat Hill View": "Borivali East",
+    "Bachraj Landmark": "Virar",
+    "Bachraj Lifespace": "Virar",
+    "Balaji Delta Tower 2": "Ulwe",
+    "Bhagwati Bhagwati Greens 2": "Kharghar",
+    "Bhoomi Acres": "Thane West",
+    "Bhoomi Acropolis": "Virar",
+    "Blue Baron Zeal Regency": "Virar",
+    "Bombay ICC": "Wadala",
+    "Bombay Island City Center": "Dadar East",
+    "CCI Rivali Park WinterGreen": "Borivali East",
+    "Chaitanya The Greens Radhakunj": "Kandivali East",
+    "Chandak 34 Park Estate": "Goregaon West",
+    "Chandak Chandak Greenairy": "Borivali East",
+    "Chandak Magathane": "Borivali East",
+    "Cosmos Horizon": "Thane West",
+    "Crystal Armus A To C": "Chembur",
+    "DB Ozone": "Dahisar",
+    "DSS Mahavir Millennium": "Thane West",
+    "Darvesh Darvesh Horizon": "Mira Road East",
+    "Delta Woods": "Mira Road East",
+    "Dimple Westwood": "Kandivali West",
+    "Dimples 19 North": "Kandivali West",
+    "Dimples 73 East": "Kandivali West",
+    "Dosti Dosti Tulip Dosti West County": "Thane West",
+    "Dosti Imperia": "Thane West",
+    "Dosti Vihar": "Thane West",
+    "Dosti West County": "Thane West",
+    "Dosti West County Phase 4 Dosti Pine": "Thane West",
+    "Dotom Blumen": "Vikhroli",
+    "Dream Arihant Niwara Sky": "Sion",
+    "Dynamic Crest Phase I Rimo Everest": "Dombivali",
+    "Dynamix Parkwoods": "Thane West",
+    "Enso Enso Sanza": "Kandivali East",
+    "GBK GBK Vishwajeet Pink City": "Ambernath East",
+    "Godrej Ascend": "Thane East",
+    "Godrej Emerald": "Thane West",
+    "Godrej Horizon Phase I": "Wadala",
+    "Godrej Nest": "Kandivali East",
+    "Godrej Nirvaan": "Kalyan West",
+    "Godrej RKS": "Chembur",
+    "Godrej The Trees": "Vikhroli",
+    "Godrej The Trees Residential Phase 1": "Vikhroli",
+    "Godrej Tranquil": "Kandivali East",
+    "Godrej Urban Park": "Powai",
+    "Goodwill Paradise": "Kharghar",
+    "Gurukrupa Guru Atman": "Kalyan West",
+    "Gurukrupa Marina Enclave": "Malad West",
+    "Gurukrupa Marina Enclave M N Phase ll": "Malad West",
+    "Happy Home Sarvoday Greens": "Bhiwandi",
+    "Haware Haware Citi": "Thane West",
+    "Hetal Infra Riddhi Siddhi": "Mira Road East",
+    "Hiranandani Castalia": "Kandivali West",
+    "Hiranandani Estate": "Thane West",
+    "Hiranandani Fortune City": "Panvel",
+    "Hiranandani Meadows": "Thane West",
+    "Hiranandani Northside": "Thane West",
+    "Hiranandani One Hiranandani Park": "Thane West",
+    "Hiranandani Regent Hill C D And E Wing": "Powai",
+    "Hiranandani Rodas Enclave": "Thane West",
+    "Hiranandani Woodrose": "Thane West",
+    "Homewell Agarwal Maple": "Borivali West",
+    "Hubtown The Premiere Residences Beverly": "Andheri West",
+    "Indiabulls Greens": "Panvel",
+    "Indiabulls Greens 2": "Panvel",
+    "Indiabulls Park": "Panvel",
+    "Interintel Gurnani Palms Wing A": "Andheri West",
+    "JK IRIS": "Mira Road East",
+    "JK IRIS Tower 1 And 2": "Mira Road East",
+    "JP Codename Dream Home Tower B": "Mira Road East",
+    "JP Codename Dream Home Tower C": "Mira Road East",
+    "JP Codename HOTCAKE": "Mira Road East",
+    "JP Decks": "Malad East",
+    "JP JP North Phase 5 Euphoria": "Mira Road East",
+    "JP North": "Mira Road East",
+    "JP North Aviva": "Mira Road East",
+    "JP North Barcelona": "Mira Road East",
+    "JP North Barcelona Wing D": "Mira Road East",
+    "JP North Celeste": "Mira Road East",
+    "JP North Elara": "Mira Road East",
+    "JP North Phase 6 Alexa": "Mira Road East",
+    "JSB Nakshatra Aarambh": "Naigaon East",
+    "JV Ariana Residency": "Borivali East",
+    "Juhi Niharika absolute": "Kharghar",
+    "K Raheja Interface Heights": "Malad West",
+    "K Raheja Raheja Residency": "Malad East",
+    "KK Dosti Oro 67": "Kandivali West",
+    "Kabra Happy Valley": "Thane West",
+    "Kakad Paradise Phase 2": "Mira Road East",
+    "Kalpataru Elegante": "Kandivali East",
+    "Kalpataru Eternia At Kalpataru Parkcity": "Thane West",
+    "Kalpataru Hills": "Thane West",
+    "Kalpataru Immensa": "Thane West",
+    "Kalpataru Kalpataru Elitus": "Mulund West",
+    "Kalpataru Kalpataru Vienta": "Kandivali East",
+    "Kalpataru Paramount": "Thane West",
+    "Kalpataru Parkcity": "Thane West",
+    "Kalpataru Siddhachal Elegant": "Thane West",
+    "Kalpataru Siddhachal Elite": "Thane West",
+    "Kalpataru Srishti": "Mira Road East",
+    "Kalpataru Srishti Namaah": "Mira Road East",
+    "Kalpataru Sunrise": "Thane West",
+    "Kalpataru Vivant South Wing B": "Andheri East",
+    "Kanakia Codename Future D": "Powai",
+    "Kanakia Niharika": "Thane West",
+    "Kanakia Paris": "Bandra Kurla Complex",
+    "Kanakia Silicon Valley": "Powai",
+    "Kanakia Zenworld Phase I": "Kanjurmarg",
+    "Kanakia Zenworld Phase II": "Kanjurmarg",
+    "Kesar Gardens": "Kharghar",
+    "Kohinoor Eden": "Kalyan East",
+    "Kohinoor Eden B1": "Kalyan East",
+    "L And T Emerald Isle": "Powai",
+    "L And T L And T Emerald Isle": "Powai",
+    "L And T L&T Veridian At Emerald Isle": "Powai",
+    "L And T Rejuve 360 Tower A": "Mulund West",
+    "L And T Seawoods Residences North Towers": "Seawoods",
+    "Lakhani Empire Towers": "Thane West",
+    "Laxmi Avenue D Global City": "Virar",
+    "Leena Bhairav Residency": "Mira Road East",
+    "Lodha Amara Tower 26 27 28 30 34 35": "Thane West",
+    "Lodha Amara Tower 45": "Thane West",
+    "Lodha Amara Tower 46": "Thane West",
+    "Lodha Bel Air": "Jogeshwari West",
+    "Lodha Bellagio": "Powai",
+    "Lodha Casa Bella Gold": "Dombivali",
+    "Lodha Casa Rio": "Dombivali",
+    "Lodha Codename Crown Jewel": "Thane West",
+    "Lodha Codename Golden Dream": "Taloja",
+    "Lodha Codename Limited Edition": "Mulund East",
+    "Lodha Codename Premier": "Dombivali",
+    "Lodha Codename Smart Buy": "Dombivali",
+    "Lodha Crown": "Thane West",
+    "Lodha Dioro": "Wadala",
+    "Lodha Elisium": "Wadala",
+    "Lodha Kiara": "Worli",
+    "Lodha Lodha Codename Never Before": "Malad West",
+    "Lodha Luxuria": "Thane West",
+    "Lodha Luxuria Priva": "Thane West",
+    "Lodha Majiwada Tower 1": "Thane West",
+    "Lodha Mira Road Project 1": "Mira Road East",
+    "Lodha New Cuffe Parade": "Wadala",
+    "Lodha New Cuffe Parade Lodha Altia": "Wadala",
+    "Lodha Palava Golden Tomorrow": "Dombivali",
+    "Lodha Palava Lakeshore Greens": "Dombivali",
+    "Lodha Palava Lakeside A To H": "Dombivali",
+    "Lodha Paradise": "Thane West",
+    "Lodha Splendora": "Thane West",
+    "Lodha Sterling": "Thane West",
+    "Lodha Sterling Tower G": "Thane West",
+    "Lodha The Lodha Palava Township": "Dombivali",
+    "Lodha Upper Thane": "Anjurdive",
+    "Lodha Woods": "Kandivali East",
+    "Lotus Lotus Sky Garden": "Kandivali West",
+    "MICL Aaradhya Highpark": "Bhayandar East",
+    "MICL Aradhya D And E Tower": "Bhayandar East",
+    "Mahaavir MAHAGHAR": "Taloja",
+    "Mahada New Tower": "Malad West",
+    "Mahaveer Solitaire Edge": "Kandivali East",
+    "Mahindra Alcove": "Andheri East",
+    "Mahindra Happinest Kalyan Project A": "Kalyan West",
+    "Mahindra Roots": "Kandivali East",
+    "Mahindra Vicino A3A4": "Andheri East",
+    "Man Opus": "Mira Road East",
+    "Marathon Marathon Nexzone": "Panvel",
+    "Mayfair The View": "Vikhroli",
+    "Metro Paramount": "Shil Phata",
+    "Metropolis Bayside": "Thane West",
+    "Mistry 9 PBR": "Nerul",
+    "Ms Shri Venkatesh Silver Spring": "Bhayandar West",
+    "N Rose Northern Heights": "Dahisar",
+    "NARANG REALTY And WADHWA GROUP Courtyard": "Thane West",
+    "Nahar Amrit Shakti": "Powai",
+    "Nandkumar Janki Legacy": "Mira Road East",
+    "Neelam Senroofs Phase III": "Nahur East",
+    "Neelam Solstice Phase I": "Ghatkopar East",
+    "Neelkanth Greens": "Thane West",
+    "Neelkanth Palms": "Thane West",
+    "Neelsidhi Amarante": "Kalamboli",
+    "Neelyog Virat": "Malad East",
+    "Neminath Heights": "Mira Road East",
+    "Nisarg Greens": "Ambernath East",
+    "Nisarg Hyde Park": "Kharghar",
+    "Nrose Northern Hills": "Dahisar",
+    "Om Shree Tirupati Balaji Tirupati Pooja": "Bhayandar East",
+    "Omkar Alta Monte": "Malad East",
+    "Ornate Heights": "Vasai",
+    "Ornate Kallisto Phase II": "Bhiwandi",
+    "Other": "Thane West",
+    "PNK Imperial Heights": "Mira Road East",
+    "PNK Space Tiara Hills Phase I Bldg No 3 5 And 2": "Mira Road East",
+    "Palkhi Sara": "Kandivali East",
+    "Paradigm Antalya": "Jogeshwari West",
+    "Paradise Sai Mannat": "Kharghar",
+    "Paradise Sai Suncity": "Taloja",
+    "Paradise Sai World City": "Panvel",
+    "Paradise Sai World City Panvel": "Panvel",
+    "Paradise Sai World Dreams Phase 1": "Dombivali",
+    "Paradise Sai World Empire": "Kharghar",
+    "Paras EL Signora Building 3": "Andheri West",
+    "Parinee Essence": "Kandivali West",
+    "Piramal Mahalaxmi": "Mahalaxmi",
+    "Piramal Revanta": "Mulund West",
+    "Piramal Revanta Tower 1": "Mulund West",
+    "Piramal Vaikunth A Class Homes Series 2": "Thane West",
+    "Piramal Vaikunth Cluster 1": "Thane West",
+    "Piramal Vaikunth Cluster 2": "Thane West",
+    "Piramal Vaikunth Thane": "Thane West",
+    "Planet Highlands": "Neral",
+    "Platinum Life": "Andheri West",
+    "Pramanik Walchand Paradise": "Mira Road East",
+    "Prestige Bellanza Phase 2 Wing D E F At The Prestige City": "Mulund West",
+    "Prestige Jasdan Classic": "Byculla",
+    "Prithvi Prithvi Pride Phase I": "Mira Road East",
+    "Puraniks Rumah Bali": "Thane West",
+    "RNA NG Eclat": "Andheri West",
+    "RNA NG N G Diamond Hill D Phase II": "Mira Road East",
+    "RNA NG N G Hill Crest": "Mira Road East",
+    "RNA NG N G Silver Spring Phase II": "Mira Road East",
+    "RNA NG N G Tivoli Phase I": "Mira Road East",
+    "RNA NG NG Diamond Hill B Phase I": "Bhayandar East",
+    "RNA NG Ocean Pearl": "Mira Road East",
+    "RNA NG RNA N G Silver Spring": "Mira Road East",
+    "RNA NG Royal Park": "Kanjurmarg",
+    "Radhe Krishna Heights": "Karjat",
+    "Radheya Sai Enclave": "Naigaon East",
+    "Raheja Solaris": "Sanpada",
+    "Raj 127 Raj Homes A Wing": "Mira Road East",
+    "Raj Akshay": "Mira Road East",
+    "Raj Florenza": "Mira Road East",
+    "Raj Heritage": "Mira Road East",
+    "Raj Heritage 2": "Mira Road East",
+    "Raj Rudraksha": "Dahisar",
+    "Rajesh White City": "Kandivali East",
+    "Rajsanket Rajinfinia Phase II Wing A Wing B Wing C": "Malad West",
+    "Ramji Hari Minat Naagraj Classic": "Ulwe",
+    "Rassaz Greens": "Mira Road East",
+    "Raunak City": "Kalyan West",
+    "Raunak Laxmi Narayan Residency": "Thane West",
+    "Raymond Raymond Realty TenX Habitat": "Thane West",
+    "Regency Anantam": "Dombivali",
+    "Reputed Builder Adani Western Heights": "Andheri West",
+    "Reputed Builder Ravi Estate": "Thane West",
+    "Reputed Builder Samriddhi": "Mira Road East",
+    "Reputed Builder Soham Gardens": "Thane West",
+    "Reputed Builder Vasant Valley": "Kalyan West",
+    "Reputed Builder Wild Wood Park 2": "Andheri West",
+    "Risland Risland The Icon": "Thane West",
+    "Roha Realty Roha Vatika": "Kurla",
+    "Romell Allure": "Borivali East",
+    "Runwal Avenue": "Kanjurmarg",
+    "Runwal Avenue Wing J": "Kanjurmarg",
+    "Runwal Bliss": "Kanjurmarg",
+    "Runwal Bliss Wing D": "Kanjurmarg",
+    "Runwal Codename Enchanted": "Thane West",
+    "Runwal Elegante": "Andheri West",
+    "Runwal Forest Tower 1 To 4": "Kanjurmarg",
+    "Runwal Forest Tower 5 To 8": "Kanjurmarg",
+    "Runwal Garden City": "Thane West",
+    "Runwal Garden City Dahlia": "Thane West",
+    "Runwal Gardens": "Dombivali",
+    "Runwal Gardens Phase 2 Bldg No 18 To 23": "Dombivali",
+    "Runwal Gardens Phase 3 Bldg No 27 28": "Dombivali",
+    "Runwal Greens": "Mulund West",
+    "Runwal Lily at Runwal Forest": "Kanjurmarg",
+    "Runwal My City": "Dombivali",
+    "Runwal Pinnacle": "Mulund West",
+    "Runwal Runwal Forests Tower 9 To 11": "Kanjurmarg",
+    "Runwal Sanctuary": "Mulund West",
+    "Runwal The Orchard Residency": "Ghatkopar West",
+    "Ruparel Mumbai XL": "Kandivali West",
+    "Ruparel Optima Ph 1": "Kandivali West",
+    "Rustomjee Bella": "Bhandup West",
+    "Rustomjee Global City": "Virar",
+    "Rustomjee Summit": "Borivali East",
+    "Rustomjee Uptown Urbania": "Thane West",
+    "Rustomjee Urbania": "Thane West",
+    "Rustomjee Urbania Azziano": "Thane West",
+    "SD Epsilon": "Kandivali East",
+    "SD Siennaa At Sarova": "Kandivali East",
+    "SK Imperial Heights": "Mira Road East",
+    "SKD Pinnacolo And Pinnacolo NX": "Mira Road East",
+    "SKD Pinnacolo NX": "Mira Road East",
+    "Sahakar Premier": "Mira Road East",
+    "Sai Balaji Estate Phase 2": "Dombivali",
+    "Salasar Exotica I": "Mira Road East",
+    "Sanghvi Ecocity": "Mira Road East",
+    "Sanghvi Ecocity Phase 3": "Mira Road East",
+    "Sanghvi S3 Skyrise": "Mira Road East",
+    "Sanghvi Sanghvi S3 Ecocity Woods": "Mira Road East",
+    "Satyam Peace Of Mind": "Kharghar",
+    "Sethia Marine View": "Borivali West",
+    "Sethia Pride Wing A": "Kandivali East",
+    "Seven Eleven Apna Ghar Phase II Plot A": "Mira Road East",
+    "Seven Eleven Apna Ghar Phase III": "Mira Road East",
+    "Shapoorji Pallonji BKC 28": "Bandra East",
+    "Shapoorji Pallonji Joyville Virar": "Virar",
+    "Shapoorji Pallonji Northern Lights": "Thane West",
+    "Shapoorji Pallonji Sarova": "Kandivali East",
+    "Shapoorji Pallonji Vicinia": "Powai",
+    "Sheth Auris Ilaria": "Malad West",
+    "Sheth Auris Serenity Tower 2": "Malad West",
+    "Sheth Avalon": "Thane West",
+    "Sheth Montana": "Mulund West",
+    "Sheth Vasant Blossom": "Andheri East",
+    "Sheth Vasant Lawns": "Thane West",
+    "Sheth Vasant Oasis": "Andheri East",
+    "Shiv Shakti Builders Tower 28": "Malad East",
+    "Shree Adinath Symphony": "Boisar",
+    "Shree Laxmi Kailash Homes": "Kalyan West",
+    "Shree Naman Premier": "Andheri East",
+    "Shree Nidhi Heights B Wing": "Mira Road East",
+    "Shree Ostwal Horizon": "Mira Road East",
+    "Shree Ramdev Heights": "Mira Road East",
+    "Shree Sai Shweta Heights": "Mira Road East",
+    "Shree Shakun Greens": "Virar",
+    "Shree Tirupati Siddeshwar Gardens": "Thane West",
+    "Shreeji Sharan Daivi Eterneety": "Borivali West",
+    "Siddha Seabrook Apartment": "Kandivali West",
+    "Siddha Sky Phase 1": "Sion",
+    "Siddharth Riverwood Park": "Dombivali",
+    "Siddhi Highland Park": "Thane West",
+    "Soham Crystal Spires": "Thane West",
+    "Sonam Indradhanush": "Mira Road East",
+    "Sonam Indraprasth": "Mira Road East",
+    "South Field Gravity": "Bhandup East",
+    "Space Residence II Building No 4 B": "Mira Road East",
+    "Space Residency": "Mira Road East",
+    "Strawberry Onyx": "Mira Road East",
+    "Strawberry The Address": "Mira Road East",
+    "Sunteck City 4th Avenue": "Goregaon West",
+    "Sunteck City Avenue 1": "Goregaon West",
+    "Sunteck City Avenue 2": "Goregaon West",
+    "Sunteck Maxx World": "Naigaon East",
+    "Sunteck One World": "Naigaon East",
+    "Sunteck West World": "Naigaon East",
+    "Swaminarayan City Phase 1A": "Dombivali",
+    "T Bhimjyani The Verraton": "Thane West",
+    "Tanvi Eminence I": "Mira Road East",
+    "Tanvi Eminence Phase 2": "Mira Road East",
+    "Tata Amantra Phase 2": "Bhiwandi",
+    "Tata Serein Phase 1": "Thane West",
+    "Techno Vision Vivanta Marvel": "Mira Road East",
+    "Tharwani Meghna Montana": "Ambernath West",
+    "Tharwani Rosalie": "Kalyan West",
+    "Today Oxyfresh Homes": "Kharghar",
+    "Transcon Triumph": "Andheri West",
+    "Tridhaatu Aum": "Chembur",
+    "Triumph Omkareshwar": "Borivali East",
+    "UK Iridium": "Kandivali East",
+    "Umiya Oasis": "Mira Road East",
+    "Unimont Aurum": "Karjat",
+    "Unique Ivana": "Mira Road East",
+    "Unique The Empress": "Mira Road East",
+    "Usha Radhe Krishna Park": "Karjat",
+    "Vaibhavlaxmi Royal Stone": "Vikhroli",
+    "Vaidehi Raghav Paradise": "Borivali East",
+    "Valencia And Mishal One Marina": "Other",
+    "Vardhman Grandeur": "Andheri West",
+    "Vasant Vasant Vihar": "Thane West",
+    "Venus Skky City Phase I": "Dombivali",
+    "Vihang Hills": "Thane West",
+    "Vihang Valley": "Thane West",
+    "Vijay Orovia Phase 1": "Thane West",
+    "Vishesh Balaji Symphony": "Panvel",
+    "Wadhwa Atmosphere O2": "Mulund West",
+    "Wadhwa Atmosphere Phase 1": "Mulund West",
+    "Wadhwa Daisy Gardens": "Ambernath West",
+    "Wadhwa TW Gardens": "Kandivali East",
+    "Wadhwa Wadhwa Courtyard": "Thane West",
+    "Welcome C G Park": "Bhiwandi",
+    "Yogsiddhi Sumukh Hills": "Kandivali East"
+  },
+  "region_localities": {
+    "Agripada": [
+      "Other"
+    ],
+    "Airoli": [
+      "Other"
+    ],
+    "Ambernath East": [
+      "GBK GBK Vishwajeet Pink City",
+      "Nisarg Greens",
+      "Other"
+    ],
+    "Ambernath West": [
+      "Other",
+      "Tharwani Meghna Montana",
+      "Wadhwa Daisy Gardens"
+    ],
+    "Andheri East": [
+      "Kalpataru Vivant South Wing B",
+      "Mahindra Alcove",
+      "Mahindra Vicino A3A4",
+      "Other",
+      "Sheth Vasant Blossom",
+      "Sheth Vasant Oasis",
+      "Shree Naman Premier"
+    ],
+    "Andheri West": [
+      "Hubtown The Premiere Residences Beverly",
+      "Interintel Gurnani Palms Wing A",
+      "Other",
+      "Paras EL Signora Building 3",
+      "Platinum Life",
+      "RNA NG Eclat",
+      "Reputed Builder Adani Western Heights",
+      "Reputed Builder Wild Wood Park 2",
+      "Runwal Elegante",
+      "Transcon Triumph",
+      "Vardhman Grandeur"
+    ],
+    "Anjurdive": [
+      "Lodha Upper Thane",
+      "Other"
+    ],
+    "Badlapur East": [
+      "Other"
+    ],
+    "Badlapur West": [
+      "Other"
+    ],
+    "Bandra East": [
+      "Other",
+      "Shapoorji Pallonji BKC 28"
+    ],
+    "Bandra Kurla Complex": [
+      "Kanakia Paris",
+      "Other"
+    ],
+    "Bandra West": [
+      "Other"
+    ],
+    "Bhandup East": [
+      "Other",
+      "South Field Gravity"
+    ],
+    "Bhandup West": [
+      "Other",
+      "Rustomjee Bella"
+    ],
+    "Bhayandar East": [
+      "MICL Aaradhya Highpark",
+      "MICL Aradhya D And E Tower",
+      "Om Shree Tirupati Balaji Tirupati Pooja",
+      "Other",
+      "RNA NG NG Diamond Hill B Phase I"
+    ],
+    "Bhayandar West": [
+      "Ms Shri Venkatesh Silver Spring",
+      "Other"
+    ],
+    "Bhiwandi": [
+      "Happy Home Sarvoday Greens",
+      "Ornate Kallisto Phase II",
+      "Other",
+      "Tata Amantra Phase 2",
+      "Welcome C G Park"
+    ],
+    "Boisar": [
+      "Other",
+      "Shree Adinath Symphony"
+    ],
+    "Borivali East": [
+      "BG Shirke Parijat Hill View",
+      "CCI Rivali Park WinterGreen",
+      "Chandak Chandak Greenairy",
+      "Chandak Magathane",
+      "JV Ariana Residency",
+      "Other",
+      "Romell Allure",
+      "Rustomjee Summit",
+      "Triumph Omkareshwar",
+      "Vaidehi Raghav Paradise"
+    ],
+    "Borivali West": [
+      "Homewell Agarwal Maple",
+      "Other",
+      "Sethia Marine View",
+      "Shreeji Sharan Daivi Eterneety"
+    ],
+    "Byculla": [
+      "Other",
+      "Prestige Jasdan Classic"
+    ],
+    "Chembur": [
+      "Crystal Armus A To C",
+      "Godrej RKS",
+      "Other",
+      "Tridhaatu Aum"
+    ],
+    "Dadar East": [
+      "Bombay Island City Center",
+      "Other"
+    ],
+    "Dadar West": [
+      "Other"
+    ],
+    "Dahisar": [
+      "AVA Guru Dwarka",
+      "DB Ozone",
+      "N Rose Northern Heights",
+      "Nrose Northern Hills",
+      "Other",
+      "Raj Rudraksha"
+    ],
+    "Deonar": [
+      "Other"
+    ],
+    "Dombivali": [
+      "Dynamic Crest Phase I Rimo Everest",
+      "Lodha Casa Bella Gold",
+      "Lodha Casa Rio",
+      "Lodha Codename Premier",
+      "Lodha Codename Smart Buy",
+      "Lodha Palava Golden Tomorrow",
+      "Lodha Palava Lakeshore Greens",
+      "Lodha Palava Lakeside A To H",
+      "Lodha The Lodha Palava Township",
+      "Other",
+      "Paradise Sai World Dreams Phase 1",
+      "Regency Anantam",
+      "Runwal Gardens",
+      "Runwal Gardens Phase 2 Bldg No 18 To 23",
+      "Runwal Gardens Phase 3 Bldg No 27 28",
+      "Runwal My City",
+      "Sai Balaji Estate Phase 2",
+      "Siddharth Riverwood Park",
+      "Swaminarayan City Phase 1A",
+      "Venus Skky City Phase I"
+    ],
+    "Dronagiri": [
+      "Other"
+    ],
+    "Ghansoli": [
+      "Other"
+    ],
+    "Ghatkopar East": [
+      "Neelam Solstice Phase I",
+      "Other"
+    ],
+    "Ghatkopar West": [
+      "Other",
+      "Runwal The Orchard Residency"
+    ],
+    "Goregaon East": [
+      "Arkade Aspire",
+      "Avant Hillway",
+      "Other"
+    ],
+    "Goregaon West": [
+      "Chandak 34 Park Estate",
+      "Other",
+      "Sunteck City 4th Avenue",
+      "Sunteck City Avenue 1",
+      "Sunteck City Avenue 2"
+    ],
+    "Jogeshwari East": [
+      "Other"
+    ],
+    "Jogeshwari West": [
+      "Lodha Bel Air",
+      "Other",
+      "Paradigm Antalya"
+    ],
+    "Juhu": [
+      "Other"
+    ],
+    "Kalamboli": [
+      "Neelsidhi Amarante",
+      "Other"
+    ],
+    "Kalyan East": [
+      "Kohinoor Eden",
+      "Kohinoor Eden B1",
+      "Other"
+    ],
+    "Kalyan West": [
+      "Ajmera One Kalyan",
+      "Godrej Nirvaan",
+      "Gurukrupa Guru Atman",
+      "Mahindra Happinest Kalyan Project A",
+      "Other",
+      "Raunak City",
+      "Reputed Builder Vasant Valley",
+      "Shree Laxmi Kailash Homes",
+      "Tharwani Rosalie"
+    ],
+    "Kamothe": [
+      "Other"
+    ],
+    "Kandivali East": [
+      "ACME Oasis",
+      "Chaitanya The Greens Radhakunj",
+      "Enso Enso Sanza",
+      "Godrej Nest",
+      "Godrej Tranquil",
+      "Kalpataru Elegante",
+      "Kalpataru Kalpataru Vienta",
+      "Lodha Woods",
+      "Mahaveer Solitaire Edge",
+      "Mahindra Roots",
+      "Other",
+      "Palkhi Sara",
+      "Rajesh White City",
+      "SD Epsilon",
+      "SD Siennaa At Sarova",
+      "Sethia Pride Wing A",
+      "Shapoorji Pallonji Sarova",
+      "UK Iridium",
+      "Wadhwa TW Gardens",
+      "Yogsiddhi Sumukh Hills"
+    ],
+    "Kandivali West": [
+      "Anant Tara",
+      "Dimple Westwood",
+      "Dimples 19 North",
+      "Dimples 73 East",
+      "Hiranandani Castalia",
+      "KK Dosti Oro 67",
+      "Lotus Lotus Sky Garden",
+      "Other",
+      "Parinee Essence",
+      "Ruparel Mumbai XL",
+      "Ruparel Optima Ph 1",
+      "Siddha Seabrook Apartment"
+    ],
+    "Kanjurmarg": [
+      "Aadi Allure Wings A To E",
+      "Arkade Earth",
+      "Kanakia Zenworld Phase I",
+      "Kanakia Zenworld Phase II",
+      "Other",
+      "RNA NG Royal Park",
+      "Runwal Avenue",
+      "Runwal Avenue Wing J",
+      "Runwal Bliss",
+      "Runwal Bliss Wing D",
+      "Runwal Forest Tower 1 To 4",
+      "Runwal Forest Tower 5 To 8",
+      "Runwal Lily at Runwal Forest",
+      "Runwal Runwal Forests Tower 9 To 11"
+    ],
+    "Karanjade": [
+      "Other"
+    ],
+    "Karjat": [
+      "Other",
+      "Radhe Krishna Heights",
+      "Unimont Aurum",
+      "Usha Radhe Krishna Park"
+    ],
+    "Khar": [
+      "Other"
+    ],
+    "Kharghar": [
+      "Adhiraj Capital City",
+      "Adhiraj Mainland",
+      "Arihant Clan Aalishan Phase 1",
+      "Bhagwati Bhagwati Greens 2",
+      "Goodwill Paradise",
+      "Juhi Niharika absolute",
+      "Kesar Gardens",
+      "Nisarg Hyde Park",
+      "Other",
+      "Paradise Sai Mannat",
+      "Paradise Sai World Empire",
+      "Satyam Peace Of Mind",
+      "Today Oxyfresh Homes"
+    ],
+    "Khopoli": [
+      "Other"
+    ],
+    "Koper Khairane": [
+      "Other"
+    ],
+    "Kurla": [
+      "Other",
+      "Roha Realty Roha Vatika"
+    ],
+    "Lower Parel": [
+      "Other"
+    ],
+    "Mahalaxmi": [
+      "Other",
+      "Piramal Mahalaxmi"
+    ],
+    "Malad East": [
+      "A And O F Residences",
+      "JP Decks",
+      "K Raheja Raheja Residency",
+      "Neelyog Virat",
+      "Omkar Alta Monte",
+      "Other",
+      "Shiv Shakti Builders Tower 28"
+    ],
+    "Malad West": [
+      "Ahuja Linkpark",
+      "Gurukrupa Marina Enclave",
+      "Gurukrupa Marina Enclave M N Phase ll",
+      "K Raheja Interface Heights",
+      "Lodha Lodha Codename Never Before",
+      "Mahada New Tower",
+      "Other",
+      "Rajsanket Rajinfinia Phase II Wing A Wing B Wing C",
+      "Sheth Auris Ilaria",
+      "Sheth Auris Serenity Tower 2"
+    ],
+    "Matunga": [
+      "Other"
+    ],
+    "Mira Road East": [
+      "Amar Vinay Heritage",
+      "JK IRIS",
+      "JP Codename Dream Home Tower B",
+      "JP Codename Dream Home Tower C",
+      "JP Codename HOTCAKE",
+      "JP JP North Phase 5 Euphoria",
+      "JP North",
+      "JP North Barcelona",
+      "JP North Barcelona Wing D",
+      "JP North Celeste",
+      "JP North Phase 6 Alexa",
+      "Kalpataru Srishti Namaah",
+      "Nandkumar Janki Legacy",
+      "Other",
+      "RNA NG Ocean Pearl",
+      "Raj Akshay",
+      "Raj Florenza",
+      "Raj Heritage",
+      "Raj Heritage 2",
+      "Rassaz Greens",
+      "SKD Pinnacolo And Pinnacolo NX",
+      "SKD Pinnacolo NX",
+      "Sahakar Premier",
+      "Sanghvi Ecocity",
+      "Sanghvi Ecocity Phase 3",
+      "Sanghvi S3 Skyrise",
+      "Shree Ramdev Heights",
+      "Techno Vision Vivanta Marvel",
+      "Umiya Oasis",
+      "Unique Ivana"
+    ],
+    "Mulund East": [
+      "Lodha Codename Limited Edition",
+      "Other"
+    ],
+    "Mulund West": [
+      "Ariisto Bellanza Phase 1 Wing A B C At The Prestige City",
+      "Kalpataru Kalpataru Elitus",
+      "L And T Rejuve 360 Tower A",
+      "Other",
+      "Piramal Revanta",
+      "Piramal Revanta Tower 1",
+      "Prestige Bellanza Phase 2 Wing D E F At The Prestige City",
+      "Runwal Greens",
+      "Runwal Pinnacle",
+      "Runwal Sanctuary",
+      "Sheth Montana",
+      "Wadhwa Atmosphere O2",
+      "Wadhwa Atmosphere Phase 1"
+    ],
+    "Nahur East": [
+      "Neelam Senroofs Phase III",
+      "Other"
+    ],
+    "Naigaon East": [
+      "JSB Nakshatra Aarambh",
+      "Other",
+      "Radheya Sai Enclave",
+      "Sunteck Maxx World",
+      "Sunteck One World",
+      "Sunteck West World"
+    ],
+    "Nala Sopara": [
+      "Other"
+    ],
+    "Neral": [
+      "Other",
+      "Planet Highlands"
+    ],
+    "Nerul": [
+      "Mistry 9 PBR",
+      "Other"
+    ],
+    "Other": [
+      "Other",
+      "Valencia And Mishal One Marina"
+    ],
+    "Palghar": [
+      "Other"
+    ],
+    "Panvel": [
+      "Hiranandani Fortune City",
+      "Indiabulls Greens",
+      "Indiabulls Greens 2",
+      "Indiabulls Park",
+      "Marathon Marathon Nexzone",
+      "Other",
+      "Paradise Sai World City",
+      "Paradise Sai World City Panvel",
+      "Vishesh Balaji Symphony"
+    ],
+    "Parel": [
+      "Other"
+    ],
+    "Powai": [
+      "Godrej Urban Park",
+      "Hiranandani Regent Hill C D And E Wing",
+      "Kanakia Codename Future D",
+      "Kanakia Silicon Valley",
+      "L And T Emerald Isle",
+      "L And T L And T Emerald Isle",
+      "L And T L&T Veridian At Emerald Isle",
+      "Lodha Bellagio",
+      "Nahar Amrit Shakti",
+      "Other",
+      "Shapoorji Pallonji Vicinia"
+    ],
+    "Prabhadevi": [
+      "Other"
+    ],
+    "Rasayani": [
+      "Other"
+    ],
+    "Sanpada": [
+      "Other",
+      "Raheja Solaris"
+    ],
+    "Santacruz East": [
+      "Other"
+    ],
+    "Santacruz West": [
+      "Other"
+    ],
+    "Seawoods": [
+      "L And T Seawoods Residences North Towers",
+      "Other"
+    ],
+    "Shil Phata": [
+      "Metro Paramount",
+      "Other"
+    ],
+    "Sion": [
+      "Dream Arihant Niwara Sky",
+      "Other",
+      "Siddha Sky Phase 1"
+    ],
+    "Taloja": [
+      "Lodha Codename Golden Dream",
+      "Mahaavir MAHAGHAR",
+      "Other",
+      "Paradise Sai Suncity"
+    ],
+    "Thane East": [
+      "Godrej Ascend",
+      "Other"
+    ],
+    "Thane West": [
+      "ACME Ozone",
+      "ACME Ozone Phase 2",
+      "Cosmos Horizon",
+      "DSS Mahavir Millennium",
+      "Dosti West County",
+      "Hiranandani Estate",
+      "Hiranandani Meadows",
+      "Hiranandani One Hiranandani Park",
+      "Hiranandani Rodas Enclave",
+      "Kalpataru Hills",
+      "Kalpataru Parkcity",
+      "Kalpataru Siddhachal Elite",
+      "Lodha Codename Crown Jewel",
+      "Lodha Crown",
+      "Lodha Splendora",
+      "Lodha Sterling",
+      "NARANG REALTY And WADHWA GROUP Courtyard",
+      "Neelkanth Greens",
+      "Neelkanth Palms",
+      "Other",
+      "Piramal Vaikunth Thane",
+      "Puraniks Rumah Bali",
+      "Raunak Laxmi Narayan Residency",
+      "Risland Risland The Icon",
+      "Runwal Garden City Dahlia",
+      "Rustomjee Urbania",
+      "Shapoorji Pallonji Northern Lights",
+      "Sheth Avalon",
+      "T Bhimjyani The Verraton",
+      "Vasant Vasant Vihar"
+    ],
+    "Titwala": [
+      "Other"
+    ],
+    "Ulwe": [
+      "Balaji Delta Tower 2",
+      "Other",
+      "Ramji Hari Minat Naagraj Classic"
+    ],
+    "Vasai": [
+      "Ornate Heights",
+      "Other"
+    ],
+    "Vashi": [
+      "Arihant Advika",
+      "Other"
+    ],
+    "Vikhroli": [
+      "Adityaraj Avenue",
+      "Adityaraj Breeze",
+      "Dotom Blumen",
+      "Godrej The Trees",
+      "Godrej The Trees Residential Phase 1",
+      "Mayfair The View",
+      "Other",
+      "Vaibhavlaxmi Royal Stone"
+    ],
+    "Ville Parle East": [
+      "Other"
+    ],
+    "Ville Parle West": [
+      "Other"
+    ],
+    "Virar": [
+      "Agarwal Lifestyle",
+      "Agarwal Paramount",
+      "Bachraj Landmark",
+      "Bachraj Lifespace",
+      "Bhoomi Acropolis",
+      "Blue Baron Zeal Regency",
+      "Laxmi Avenue D Global City",
+      "Other",
+      "Rustomjee Global City",
+      "Shapoorji Pallonji Joyville Virar",
+      "Shree Shakun Greens"
+    ],
+    "Wadala": [
+      "Ajmera Bhakti Park",
+      "Bombay ICC",
+      "Godrej Horizon Phase I",
+      "Lodha Dioro",
+      "Lodha Elisium",
+      "Lodha New Cuffe Parade",
+      "Lodha New Cuffe Parade Lodha Altia",
+      "Other"
+    ],
+    "Worli": [
+      "Lodha Kiara",
+      "Other"
+    ]
+  }
+}

@@ -216,10 +216,14 @@ def main() -> None:
         metrics = json.loads(METRICS_PATH.read_text(encoding="utf-8"))
 
     preset_actual: float | None = None
-    base = {
-        c: train[c].mode().iloc[0] if train[c].dtype == object else train[c].median()
-        for c in BASE_FEATURE_COLS
-    }
+    base = {}
+    for c in BASE_FEATURE_COLS:
+        if pd.api.types.is_numeric_dtype(train[c]):
+            base[c] = int(train[c].median())
+        else:
+            mode_series = train[c].mode()
+            base[c] = mode_series.iloc[0] if not mode_series.empty else np.nan
+    
     base["bhk"] = int(train["bhk"].median())
     base["area"] = int(train["area"].median())
 
